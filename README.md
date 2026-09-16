@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **개인 포크 · 한글화 작업본입니다. 공식 Tinycast가 아닙니다.**<br>
+> This is a personal Korean-localization fork, not [official Tinycast](https://github.com/abue-ammar/tinycast).<br>
+> 브랜치 [`ko-i18n`](https://github.com/qaws81877/tinycast/tree/ko-i18n) · 운영 메모 [README.ko.md](README.ko.md) · brew `Tinycast.app`을 덮어쓰지 말고 `Tinycast Dev.app`으로 빌드하세요.
+
 # Tinycast
 
 **A tiny, fully native macOS launcher. One hotkey, everything you reach for all day, under 100 MB of
