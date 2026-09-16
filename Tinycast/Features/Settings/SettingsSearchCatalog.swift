@@ -43,6 +43,11 @@ struct SettingsSearchEntry: Identifiable, Hashable, Sendable {
         guard let anchor, anchor.title != tab.title else { return tab.title }
         return "\(tab.title) › \(anchor.title)"
     }
+
+    var localizedBreadcrumb: String {
+        guard let anchor, anchor.title != tab.title else { return tab.title.localized }
+        return "\(tab.title.localized) › \(anchor.title.localized)"
+    }
 }
 
 /// What Settings offers to search. Hand-written: a `Form` can't be asked what rows it holds, so a
@@ -81,14 +86,20 @@ enum SettingsSearchCatalog {
         var titleScore = 0
         var titleMatches = 0
         for term in query.terms {
-            if let match = FuzzyMatch.match(term, candidate: entry.title) {
+            if let match = FuzzyMatch.match(term, candidate: entry.title)
+                ?? FuzzyMatch.match(term, candidate: entry.title.localized)
+            {
                 titleMatches += 1
                 titleScore += match.score
                 continue
             }
             guard
-                entry.keywords.contains(where: { FuzzyMatch.match(term, candidate: $0) != nil })
+                entry.keywords.contains(where: {
+                    FuzzyMatch.match(term, candidate: $0) != nil
+                        || FuzzyMatch.match(term, candidate: $0.localized) != nil
+                })
                     || FuzzyMatch.match(term, candidate: entry.breadcrumb) != nil
+                    || FuzzyMatch.match(term, candidate: entry.localizedBreadcrumb) != nil
             else { return nil }
         }
 

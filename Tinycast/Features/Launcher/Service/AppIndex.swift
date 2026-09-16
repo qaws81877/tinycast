@@ -144,7 +144,10 @@ struct AppEntry: Identifiable, Hashable, Sendable {
     /// What this entry is called, in the shape `EntryNaming` reads.
     var naming: EntryNaming.Sources {
         var sources = EntryNaming.Sources(name: name)
-        sources.alternateTitles = alternateTitles
+        var titles = alternateTitles
+        let localizedName = name.localized
+        if localizedName != name { titles.append(localizedName) }
+        sources.alternateTitles = titles
         // The subtitle a row prints wins; the owner it replaced still finds the entry.
         sources.subtitle = subtitle ?? ownerName
         sources.keywords = keywords + (subtitle == nil ? [] : [ownerName].compactMap { $0 })
@@ -315,12 +318,23 @@ extension AppEntry {
 
 extension AppEntry.Kind {
     private static let byCategoryName: [String: AppEntry.Kind] = allCases.reduce(into: [:]) {
-        $0[FuzzyMatch.normalized($1.descriptor.sectionTitle)] = $1
-        $0[FuzzyMatch.normalized($1.descriptor.label)] = $1
+        table, kind in
+        for raw in [
+            kind.descriptor.sectionTitle, kind.descriptor.label,
+            kind.descriptor.sectionTitle.localized, kind.descriptor.label.localized
+        ] {
+            table[FuzzyMatch.normalized(raw)] = kind
+        }
     }
 
     private static let categoryNames = allCases.map { kind in
-        (kind, [kind.descriptor.sectionTitle, kind.descriptor.label].map(FuzzyMatch.Candidate.init))
+        (
+            kind,
+            [
+                kind.descriptor.sectionTitle, kind.descriptor.label,
+                kind.descriptor.sectionTitle.localized, kind.descriptor.label.localized,
+            ].map(FuzzyMatch.Candidate.init)
+        )
     }
 
     static func named(by query: LauncherOrder.CategoryQuery) -> AppEntry.Kind? {

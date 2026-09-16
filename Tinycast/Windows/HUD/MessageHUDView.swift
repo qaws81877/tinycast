@@ -48,7 +48,7 @@ struct MessageHUDView: View {
     private var content: some View {
         HStack(spacing: metrics.spacing.md) {
             mark
-            Text(message)
+            Text(message.localized)
                 .font(metrics.typography.bar)
                 .foregroundStyle(Color.primary)
                 .lineLimit(1)

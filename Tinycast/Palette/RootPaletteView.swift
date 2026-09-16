@@ -323,7 +323,7 @@ struct RootPaletteView: View {
                 .safeAreaInset(edge: .bottom, spacing: 0) {
                     if !isCollapsed {
                         bottomBar(
-                            pillLabel: screen.primaryActionTitle, showActionGroup: showActionGroup,
+                            pillLabel: screen.primaryActionTitle.localized, showActionGroup: showActionGroup,
                             formPrimaryShortcut: screen.hidesSearchField && screen.actsWithoutRows,
                             primaryActionEnabled: screen.isPrimaryActionEnabled(at: sel),
                             showActions: screen.hasActions(at: sel))
@@ -879,7 +879,7 @@ struct RootPaletteView: View {
             .background(alignment: .leading) {
                 // An IME's marked text leaves `query` empty, so the placeholder would overlap it.
                 if vm.query.isEmpty, !vm.isComposing {
-                    Text(searchPrompt)
+                    Text(searchPrompt.localized)
                         .font(metrics.typography.searchField)
                         .foregroundStyle(Theme.Colors.textTertiary)
                         .lineLimit(1)
@@ -888,7 +888,7 @@ struct RootPaletteView: View {
                 }
             }
             // The prompt used to carry this; without it the field would be unlabelled.
-            .accessibilityLabel(Text(searchPrompt))
+            .accessibilityLabel(Text(searchPrompt.localized))
             // Never branches on query — that tore down the field editor mid-keystroke once.
             .overlay {
                 if settings.paletteDraggable {

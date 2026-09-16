@@ -32,12 +32,11 @@ struct DialogView: View {
                 if let symbol = request.symbol {
                     DialogSymbol(name: symbol, tone: request.tone)
                 }
-
                 VStack(alignment: .leading, spacing: metrics.spacing.sm) {
-                    Text(request.title)
+                    Text(request.title.localized)
                         .font(metrics.typography.panelTitle)
                     if let message = request.message {
-                        Text(message)
+                        Text(message.localized)
                             .font(metrics.typography.rowTitle)
                             .foregroundStyle(Theme.Colors.textSecondary)
                             .fixedSize(horizontal: false, vertical: true)
@@ -141,7 +140,7 @@ private struct DialogButton: View {
 
     var body: some View {
         Button(action: onActivate) {
-            Text(action.title)
+            Text(action.title.localized)
                 .fixedSize(horizontal: singleLine, vertical: false)
                 .multilineTextAlignment(.center)
         }
