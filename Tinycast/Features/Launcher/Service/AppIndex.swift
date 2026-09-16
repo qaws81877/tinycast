@@ -135,7 +135,10 @@ struct AppEntry: Identifiable, Hashable, Sendable {
     var naming: EntryNaming.Sources {
         var sources = EntryNaming.Sources(name: name)
         sources.strongNames = matchAliases
-        sources.translations = alternateNames
+        var translations = alternateNames
+        let localizedName = name.localized
+        if localizedName != name { translations.append(localizedName) }
+        sources.translations = translations
         sources.ownerName = ownerName
         sources.bundleID = bundleID
         sources.executableName = executableName
@@ -266,8 +269,13 @@ extension AppEntry {
 extension AppEntry.Kind {
     /// The descriptors' own words, lowercased once, so a keystroke costs a lookup and not a scan.
     private static let byCategoryName: [String: AppEntry.Kind] = allCases.reduce(into: [:]) {
-        $0[$1.descriptor.sectionTitle.lowercased()] = $1
-        $0[$1.descriptor.label.lowercased()] = $1
+        table, kind in
+        for raw in [
+            kind.descriptor.sectionTitle, kind.descriptor.label,
+            kind.descriptor.sectionTitle.localized, kind.descriptor.label.localized
+        ] {
+            table[raw.lowercased()] = kind
+        }
     }
 
     /// The category a query names outright. Exact only — a prefix would take a word from an entry.

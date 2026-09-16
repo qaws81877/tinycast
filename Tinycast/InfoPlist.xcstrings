@@ -1,0 +1,85 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "NSAppleEventsUsageDescription": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tinycast uses automation to perform system actions you explicitly run."
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tinycast는 사용자가 직접 실행한 시스템 동작에 자동화 기능을 사용합니다."
+          }
+        }
+      }
+    },
+    "NSCameraUsageDescription": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tinycast shows a camera preview so you can check yourself, and take a photo to the clipboard."
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tinycast는 카메라 미리보기로 모습을 확인하고, 사진을 클립보드에 담을 수 있게 합니다."
+          }
+        }
+      }
+    },
+    "NSCalendarsFullAccessUsageDescription": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tinycast reads today's and tomorrow's events so you can join a meeting from the palette."
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tinycast는 오늘과 내일 일정을 읽어 팔레트에서 회의에 참가할 수 있게 합니다."
+          }
+        }
+      }
+    },
+    "NSBluetoothAlwaysUsageDescription": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tinycast uses Bluetooth access only when you run the Toggle Bluetooth action."
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tinycast는 Bluetooth 켜기/끄기 동작을 실행할 때만 Bluetooth에 접근합니다."
+          }
+        }
+      }
+    },
+    "CFBundleName": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tinycast"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

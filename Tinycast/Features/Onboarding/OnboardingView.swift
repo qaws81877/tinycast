@@ -59,9 +59,9 @@ struct OnboardingView: View {
         VStack(spacing: Theme.Spacing.md) {
             heroMark
             VStack(spacing: Theme.Spacing.xs) {
-                Text(title)
+                Text(title.localized)
                     .font(.title2.weight(.bold))
-                Text(subtitle)
+                Text(subtitle.localized)
                     .font(.callout)
                     .foregroundStyle(.secondary)
                     .multilineTextAlignment(.center)
@@ -121,7 +121,7 @@ struct OnboardingView: View {
 
     private var readyMessage: String {
         if let caps = hotKeys.binding(for: .togglePalette)?.keycaps {
-            return "Press \(caps.joined()) anytime to start using Tinycast."
+            return "Press %@ anytime to start using Tinycast.".localized(caps.joined())
         }
         return "Tinycast is ready. Set a shortcut in Settings to summon it."
     }
@@ -309,7 +309,7 @@ struct OnboardingView: View {
     // MARK: - Shared bits
 
     private func caption(_ text: String) -> some View {
-        Text(text)
+        Text(text.localized)
             .font(.caption)
             .foregroundStyle(.tertiary)
             .padding(.horizontal, Theme.Spacing.xs)

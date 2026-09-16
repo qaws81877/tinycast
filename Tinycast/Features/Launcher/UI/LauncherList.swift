@@ -246,11 +246,11 @@ private struct AppRow: View {
                             .offset(y: 3)
                     }
                 }
-            Text(app.name)
+            Text(app.name.localized)
                 .font(metrics.typography.rowTitle)
                 .lineLimit(1)
             if let subtitle = app.subtitle {
-                Text(subtitle)
+                Text(subtitle.localized)
                     .font(metrics.typography.rowTrailing)
                     .foregroundStyle(.secondary)
                     .lineLimit(1)
@@ -285,7 +285,7 @@ private struct AppRow: View {
                     KeyCapChip(text: String(slot), style: .outline)
                 }
             } else {
-                Text(app.kindLabel)
+                Text(app.kindLabel.localized)
                     .font(metrics.typography.rowTrailing)
                     .foregroundStyle(.secondary)
             }

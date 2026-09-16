@@ -34,7 +34,7 @@ struct MenuSearchScreen: PaletteScreen {
             if session.state == .reading {
                 EmptyResults(text: "Reading menu…")
             } else if rows.isEmpty {
-                EmptyResults(text: "No menu items found in \(name)")
+                EmptyResults(text: "No menu items found in %@".localized(name))
             } else {
                 MenuSearchList(
                     items: rows, targetName: name, isSearching: session.isSearching,
@@ -45,11 +45,11 @@ struct MenuSearchScreen: PaletteScreen {
                     onActivate: { core.menuSearchCoordinator.activate($0) })
             }
         case .excluded(let name):
-            EmptyResults(text: "Menu search is turned off for \(name)")
+            EmptyResults(text: "Menu search is turned off for %@".localized(name))
         case .selfTarget:
             EmptyResults(text: "Tinycast has no menu to search")
         case .menuLess(let name):
-            EmptyResults(text: "\(name) has no menu bar to search")
+            EmptyResults(text: "%@ has no menu bar to search".localized(name))
         case .noApplication:
             EmptyResults(text: "No application to search")
         }

@@ -221,7 +221,7 @@ struct PopoverMenu: View {
 
     /// Tighter below than above, so a header belongs to the rows under it, not between two groups.
     private func sectionLabel(_ title: String, isFirst: Bool) -> some View {
-        Text(title)
+        Text(title.localized)
             .font(metrics.typography.sectionHeader)
             .foregroundStyle(.secondary)
             .lineLimit(1)
@@ -287,7 +287,7 @@ private struct PopoverMenuRow: View {
                         MenuFileIcon(path: path)
                     }
                 }
-                Text(item.title)
+                Text(item.title.localized)
                     .font(metrics.typography.menuRow)
                     .foregroundStyle(item.isDestructive ? Color.red : Color.primary)
                     .lineLimit(1)
