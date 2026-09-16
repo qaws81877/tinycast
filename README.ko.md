@@ -1,6 +1,6 @@
 # Tinycast 한글 포크
 
-공식 `README.md`는 건드리지 않는다. 이 파일이 한글본 운영 메모다.
+공식 본문은 `README.md`에 그대로 둔다. 최상단 배너만 “개인 포크 · 한글화 작업본”이라고 밝힌다. 이 파일이 한글본 운영 메모다.
 
 - 디렉토리: `/Users/admin/Developer/tinycast-ko`
 - 포크: https://github.com/qaws81877/tinycast
