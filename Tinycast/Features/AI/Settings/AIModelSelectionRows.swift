@@ -25,7 +25,7 @@ struct AIModelSelectionRows<ModelLabel: View, EffortLabel: View>: View {
                 ForEach(modelGroups) { group in
                     Section(group.title) {
                         ForEach(group.options) { option in
-                            Text(option.title).tag(Optional(option.selection))
+                            Text(option.title.localized).tag(Optional(option.selection))
                         }
                     }
                 }

@@ -768,7 +768,7 @@ private struct ExtensionPreferenceRow: View {
         case .dropdown:
             Picker("", selection: $text) {
                 ForEach(schema.options, id: \.value) { option in
-                    Text(option.title).tag(option.value)
+                    Text(option.title.localized).tag(option.value)
                 }
             }
             .labelsHidden()

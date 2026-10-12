@@ -12,8 +12,9 @@ struct CalendarSettingsView: View {
                 anchor: .calendarCalendar,
                 enableTitle: "Join meetings from Tinycast",
                 enableSubtitle:
-                    "Reads \(settings.calendarSpan.possessivePhrase) events for join links. "
-                    + "Nothing leaves this Mac.",
+                    "Reads %@ events for join links. ".localized(
+                        settings.calendarSpan.possessivePhrase.localized)
+                    + "Nothing leaves this Mac.".localized,
                 isEnabled: enabledBinding,
                 showsInLauncher: $settings.calendarShowInLauncher,
                 showsIcon: true,
@@ -22,7 +23,7 @@ struct CalendarSettingsView: View {
             Section {
                 Picker(selection: $settings.calendarLauncherLimit) {
                     ForEach(CalendarLauncherLimit.allCases) { limit in
-                        Text(limit.title).tag(limit)
+                        Text(limit.title.localized).tag(limit)
                     }
                 } label: {
                     SettingsRowTitle(.calendarCalendar, "Upcoming meetings in launcher")
@@ -55,7 +56,7 @@ struct CalendarSettingsView: View {
             Section {
                 Picker(selection: $settings.joinWindowMinutes) {
                     ForEach(JoinWindow.allCases) { window in
-                        Text(window.title).tag(window)
+                        Text(window.title.localized).tag(window)
                     }
                 } label: {
                     SettingsRowTitle(.calendarJoining, "Show the join card")
@@ -88,7 +89,7 @@ struct CalendarSettingsView: View {
             Section {
                 Picker(selection: $settings.calendarMenuBarDisplay) {
                     ForEach(CalendarMenuBarDisplay.allCases) { display in
-                        Text(display.title).tag(display)
+                        Text(display.title.localized).tag(display)
                     }
                 } label: {
                     SettingsRowTitle(.calendarMenuBar, "Calendar in Menu Bar")
@@ -96,7 +97,7 @@ struct CalendarSettingsView: View {
                 }
                 Picker(selection: $settings.calendarSpan) {
                     ForEach(MeetingSpan.allCases) { span in
-                        Text(span.title).tag(span)
+                        Text(span.title.localized).tag(span)
                     }
                 } label: {
                     SettingsRowTitle(.calendarMenuBar, "Days to Show")
@@ -104,7 +105,7 @@ struct CalendarSettingsView: View {
                 }
                 Picker(selection: $settings.menuBarEvents) {
                     ForEach(MenuBarEvents.allCases) { lead in
-                        Text(lead.title).tag(lead)
+                        Text(lead.title.localized).tag(lead)
                     }
                 } label: {
                     SettingsRowTitle(.calendarMenuBar, "Show Upcoming Events")
@@ -123,7 +124,7 @@ struct CalendarSettingsView: View {
                 .settingsEnabled(settings.calendarMenuBarDisplay != .disabled)
                 Picker(selection: $settings.hideCurrentEvent) {
                     ForEach(HideCurrentEvent.allCases) { hide in
-                        Text(hide.title).tag(hide)
+                        Text(hide.title.localized).tag(hide)
                     }
                 } label: {
                     SettingsRowTitle(.calendarMenuBar, "Hide Current Event")

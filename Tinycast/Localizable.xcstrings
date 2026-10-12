@@ -1,28 +1,6 @@
 {
   "sourceLanguage": "en",
   "strings": {
-    "“%@” Failed": {
-      "extractionState": "manual",
-      "localizations": {
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "“%@” 실패"
-          }
-        }
-      }
-    },
-    "%@ · not connected": {
-      "extractionState": "manual",
-      "localizations": {
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ · 연결 안 됨"
-          }
-        }
-      }
-    },
     "%@ %@ is available": {
       "extractionState": "manual",
       "localizations": {
@@ -89,6 +67,171 @@
         }
       }
     },
+    "%@ · not connected": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ · 연결 안 됨"
+          }
+        }
+      }
+    },
+    "1 minute": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1분"
+          }
+        }
+      }
+    },
+    "1 next": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "다음 1개"
+          }
+        }
+      }
+    },
+    "10 minutes": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "10분"
+          }
+        }
+      }
+    },
+    "10 minutes before": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "10분 전"
+          }
+        }
+      }
+    },
+    "15 minutes": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "15분"
+          }
+        }
+      }
+    },
+    "2 minutes": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "2분"
+          }
+        }
+      }
+    },
+    "2 minutes before": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "2분 전"
+          }
+        }
+      }
+    },
+    "3 next": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "다음 3개"
+          }
+        }
+      }
+    },
+    "30 minutes before": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "30분 전"
+          }
+        }
+      }
+    },
+    "5 minutes": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "5분"
+          }
+        }
+      }
+    },
+    "5 minutes before": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "5분 전"
+          }
+        }
+      }
+    },
+    "5 next": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "다음 5개"
+          }
+        }
+      }
+    },
+    "A .rayconfig file from Raycast 2.0 or later.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Raycast 2.0 이상의 .rayconfig 파일입니다."
+          }
+        }
+      }
+    },
+    "A .tinycast file exported from Tinycast.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tinycast에서 보낸 .tinycast 파일입니다."
+          }
+        }
+      }
+    },
     "A custom command with this name already exists.": {
       "extractionState": "manual",
       "localizations": {
@@ -96,6 +239,28 @@
           "stringUnit": {
             "state": "translated",
             "value": "같은 이름의 사용자 설정 명령이 이미 있습니다."
+          }
+        }
+      }
+    },
+    "A custom size with this name already exists.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 이름의 사용자 지정 크기가 이미 있습니다."
+          }
+        }
+      }
+    },
+    "A folder with package.json and built commands.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "package.json과 빌드된 명령이 있는 폴더입니다."
           }
         }
       }
@@ -151,6 +316,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "같은 이름의 퀵링크가 이미 있습니다."
+          }
+        }
+      }
+    },
+    "A reply stops after this many; Unlimited runs until Stop. ": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "응답은 이 횟수에서 멈춥니다. 무제한이면 중지를 누를 때까지 계속합니다. "
           }
         }
       }
@@ -276,6 +452,17 @@
         }
       }
     },
+    "Act on selected text. Nothing is read until you press a shortcut.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "선택한 텍스트에 적용합니다. 단축키를 누르기 전에는 읽지 않습니다."
+          }
+        }
+      }
+    },
     "Act on the text you have selected in any app. Nothing is read until you run an action.": {
       "extractionState": "manual",
       "localizations": {
@@ -360,6 +547,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "이 레이아웃에 앱 추가"
+          }
+        }
+      }
+    },
+    "Add API Connection": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "API 연결 추가"
           }
         }
       }
@@ -518,6 +716,105 @@
         }
       }
     },
+    "After 10 minutes": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "10분 후"
+          }
+        }
+      }
+    },
+    "After 15 seconds": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "15초 후"
+          }
+        }
+      }
+    },
+    "After 30 minutes": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "30분 후"
+          }
+        }
+      }
+    },
+    "After 30 seconds": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "30초 후"
+          }
+        }
+      }
+    },
+    "After 5 minutes": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "5분 후"
+          }
+        }
+      }
+    },
+    "After 5 seconds": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "5초 후"
+          }
+        }
+      }
+    },
+    "After 60 seconds": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "60초 후"
+          }
+        }
+      }
+    },
+    "After 90 seconds": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "90초 후"
+          }
+        }
+      }
+    },
+    "After the launcher closes.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "런처가 닫힌 뒤."
+          }
+        }
+      }
+    },
     "AI Chat": {
       "extractionState": "manual",
       "localizations": {
@@ -573,6 +870,17 @@
         }
       }
     },
+    "All": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모두"
+          }
+        }
+      }
+    },
     "All Symbols": {
       "extractionState": "manual",
       "localizations": {
@@ -602,6 +910,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "캘린더 접근 허용…"
+          }
+        }
+      }
+    },
+    "Allow it in Privacy & Security ▸ Calendars.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "개인정보 보호 및 보안 ▸ 캘린더에서 허용하세요."
           }
         }
       }
@@ -679,6 +998,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "동물 및 자연"
+          }
+        }
+      }
+    },
+    "Another sign-in is still waiting. Finish it first.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "다른 로그인이 아직 대기 중입니다. 먼저 끝내세요."
           }
         }
       }
@@ -782,6 +1112,17 @@
         }
       }
     },
+    "Apple Intelligence runs on this Mac. Nothing leaves it.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Intelligence는 이 Mac에서 실행됩니다. 밖으로 나가지 않습니다."
+          }
+        }
+      }
+    },
     "Apple Shortcut": {
       "extractionState": "manual",
       "localizations": {
@@ -811,6 +1152,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "Apple 번역기가 이 언어 쌍을 지원하지 않습니다."
+          }
+        }
+      }
+    },
+    "Apple's translator, on this Mac. A language downloads on first use.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 Mac의 Apple 번역입니다. 언어는 처음 쓸 때 받습니다."
           }
         }
       }
@@ -859,6 +1211,17 @@
         }
       }
     },
+    "Are you sure you want to proceed with deleting all clipboard history entries?": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "클립보드 기록 항목을 모두 지울까요?"
+          }
+        }
+      }
+    },
     "Argument": {
       "extractionState": "manual",
       "localizations": {
@@ -899,6 +1262,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "윈도우 배치는 붙여넣기와 같은 권한을 사용합니다."
+          }
+        }
+      }
+    },
+    "As they start.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "시작될 때."
           }
         }
       }
@@ -958,6 +1332,17 @@
         }
       }
     },
+    "Ask mode · your Cursor MCP servers still apply": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ask 모드 · Cursor MCP 서버는 그대로 적용됩니다"
+          }
+        }
+      }
+    },
     "Ask the handler for a new window instead of reusing its frontmost tab.": {
       "extractionState": "manual",
       "localizations": {
@@ -976,6 +1361,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "오디오"
+          }
+        }
+      }
+    },
+    "Authentication": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "인증"
           }
         }
       }
@@ -1025,6 +1421,17 @@
       }
     },
     "Automatic": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "자동"
+          }
+        }
+      }
+    },
+    "Automatically": {
       "extractionState": "manual",
       "localizations": {
         "ko": {
@@ -1145,6 +1552,28 @@
         }
       }
     },
+    "Before and after a meeting starts.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "회의가 시작되기 전과 후."
+          }
+        }
+      }
+    },
+    "Before joining a meeting.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "회의에 참가하기 전."
+          }
+        }
+      }
+    },
     "Behaviour": {
       "extractionState": "manual",
       "localizations": {
@@ -1152,6 +1581,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "동작"
+          }
+        }
+      }
+    },
+    "Between tiled windows and screen edges.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "타일된 윈도우와 화면 가장자리 사이."
           }
         }
       }
@@ -1174,6 +1614,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "블러"
+          }
+        }
+      }
+    },
+    "Bold": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "굵게"
           }
         }
       }
@@ -1251,6 +1702,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "사랑으로 만들었습니다."
+          }
+        }
+      }
+    },
+    "Bullet List": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "글머리 기호 목록"
           }
         }
       }
@@ -1486,6 +1948,28 @@
         }
       }
     },
+    "Changelog": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "변경 기록"
+          }
+        }
+      }
+    },
+    "Changes can't be saved: the database couldn't be opened. Its file is untouched.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "변경을 저장할 수 없습니다. 데이터베이스를 열지 못했고, 파일은 그대로입니다."
+          }
+        }
+      }
+    },
     "Change…": {
       "extractionState": "manual",
       "localizations": {
@@ -1640,6 +2124,17 @@
         }
       }
     },
+    "Choose folders to include when searching for files.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "파일을 검색할 때 포함할 폴더를 고르세요."
+          }
+        }
+      }
+    },
     "Choose Folder…": {
       "extractionState": "manual",
       "localizations": {
@@ -1658,6 +2153,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "앱과 명령 옆에 표시할 예정 회의 수를 고르세요."
+          }
+        }
+      }
+    },
+    "Choose how the launcher opens.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "런처가 열리는 방식을 고르세요."
           }
         }
       }
@@ -1750,6 +2256,17 @@
         }
       }
     },
+    "Clear All": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모두 지우기"
+          }
+        }
+      }
+    },
     "Clear calculation history?": {
       "extractionState": "manual",
       "localizations": {
@@ -1834,6 +2351,39 @@
           "stringUnit": {
             "state": "translated",
             "value": "언어 및 지역에서 **번역 언어…**를 클릭한 뒤 다운로드하세요."
+          }
+        }
+      }
+    },
+    "Client ID": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "클라이언트 ID"
+          }
+        }
+      }
+    },
+    "Client registration failed. Enter a registered client ID and try again.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "클라이언트 등록에 실패했습니다. 등록된 클라이언트 ID를 입력하고 다시 시도하세요."
+          }
+        }
+      }
+    },
+    "Client secret": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "클라이언트 시크릿"
           }
         }
       }
@@ -1948,6 +2498,28 @@
         }
       }
     },
+    "Code Block": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "코드 블록"
+          }
+        }
+      }
+    },
+    "Codex and OpenRouter only. Prompts go to a search engine.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Codex와 OpenRouter만 해당합니다. 프롬프트는 검색 엔진으로 갑니다."
+          }
+        }
+      }
+    },
     "Color": {
       "extractionState": "manual",
       "localizations": {
@@ -2043,6 +2615,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "콤팩트"
+          }
+        }
+      }
+    },
+    "Compact": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "컴팩트"
           }
         }
       }
@@ -2168,6 +2751,17 @@
         }
       }
     },
+    "Conversations stay on this Mac, outside settings backups.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "대화는 이 Mac에 남고, 설정 백업에는 들어가지 않습니다."
+          }
+        }
+      }
+    },
     "Conversations stay on this Mac. Nothing here is carried in a settings backup.": {
       "extractionState": "manual",
       "localizations": {
@@ -2186,6 +2780,28 @@
           "stringUnit": {
             "state": "translated",
             "value": "복사됨"
+          }
+        }
+      }
+    },
+    "Copies from these apps aren't recorded.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 앱에서 복사한 내용은 기록되지 않습니다."
+          }
+        }
+      }
+    },
+    "Copies what Raycast has already built.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Raycast가 이미 빌드한 것을 복사합니다."
           }
         }
       }
@@ -2241,6 +2857,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "색상 복사"
+          }
+        }
+      }
+    },
+    "Copy Definition": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "뜻 복사"
           }
         }
       }
@@ -2366,28 +2993,6 @@
         }
       }
     },
-    "Couldn’t Delete “%@”": {
-      "extractionState": "manual",
-      "localizations": {
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "“%@”을(를) 삭제할 수 없습니다"
-          }
-        }
-      }
-    },
-    "Couldn’t Open %@": {
-      "extractionState": "manual",
-      "localizations": {
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@을(를) 열 수 없습니다"
-          }
-        }
-      }
-    },
     "Couldn't open the meeting link": {
       "extractionState": "manual",
       "localizations": {
@@ -2410,6 +3015,39 @@
         }
       }
     },
+    "Couldn't write the backup file.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "백업 파일을 쓸 수 없습니다."
+          }
+        }
+      }
+    },
+    "Couldn’t Delete “%@”": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“%@”을(를) 삭제할 수 없습니다"
+          }
+        }
+      }
+    },
+    "Couldn’t Open %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@을(를) 열 수 없습니다"
+          }
+        }
+      }
+    },
     "Couldn’t Run %@": {
       "extractionState": "manual",
       "localizations": {
@@ -2428,17 +3066,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "“%@”(으)로 전환할 수 없습니다"
-          }
-        }
-      }
-    },
-    "Couldn't write the backup file.": {
-      "extractionState": "manual",
-      "localizations": {
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "백업 파일을 쓸 수 없습니다."
           }
         }
       }
@@ -2586,6 +3213,17 @@
         }
       }
     },
+    "Custom icon.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사용자 지정 아이콘."
+          }
+        }
+      }
+    },
     "Custom search paths": {
       "extractionState": "manual",
       "localizations": {
@@ -2593,6 +3231,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "사용자 설정 검색 경로"
+          }
+        }
+      }
+    },
+    "Custom Sizes": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사용자 지정 크기"
           }
         }
       }
@@ -2615,6 +3264,28 @@
           "stringUnit": {
             "state": "translated",
             "value": "순환"
+          }
+        }
+      }
+    },
+    "Cycle displays": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "디스플레이 순환"
+          }
+        }
+      }
+    },
+    "Cycle ½, ⅓ and ⅔": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "½, ⅓, ⅔로 순환"
           }
         }
       }
@@ -2707,6 +3378,17 @@
         }
       }
     },
+    "Default Browser": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "기본 브라우저"
+          }
+        }
+      }
+    },
     "Default model": {
       "extractionState": "manual",
       "localizations": {
@@ -2714,6 +3396,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "기본 모델"
+          }
+        }
+      }
+    },
+    "Define Word": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "단어 정의"
           }
         }
       }
@@ -2736,17 +3429,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "삭제"
-          }
-        }
-      }
-    },
-    "Delete “%@”?": {
-      "extractionState": "manual",
-      "localizations": {
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "“%@”을(를) 삭제할까요?"
           }
         }
       }
@@ -2802,6 +3484,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "퀵링크 삭제"
+          }
+        }
+      }
+    },
+    "Delete “%@”?": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“%@”을(를) 삭제할까요?"
           }
         }
       }
@@ -2949,6 +3642,17 @@
         }
       }
     },
+    "Drag the strip above the search field.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "검색 필드 위의 띠를 드래그하세요."
+          }
+        }
+      }
+    },
     "Drag to reposition": {
       "extractionState": "manual",
       "localizations": {
@@ -3000,6 +3704,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "%@ 편집"
+          }
+        }
+      }
+    },
+    "Edit Custom Size": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사용자 지정 크기 편집"
           }
         }
       }
@@ -3400,6 +4115,17 @@
         }
       }
     },
+    "English": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "영어"
+          }
+        }
+      }
+    },
     "Enter a command to run.": {
       "extractionState": "manual",
       "localizations": {
@@ -3451,6 +4177,28 @@
           "stringUnit": {
             "state": "translated",
             "value": "퀵링크 이름을 입력하세요."
+          }
+        }
+      }
+    },
+    "Enter a name for the size.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "크기의 이름을 입력하세요."
+          }
+        }
+      }
+    },
+    "Enter a registered client ID. This server cannot register Tinycast automatically.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "등록된 클라이언트 ID를 입력하세요. 이 서버는 Tinycast를 자동으로 등록할 수 없습니다."
           }
         }
       }
@@ -3664,6 +4412,28 @@
         }
       }
     },
+    "Expand templates from the launcher or by keyword.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "런처나 키워드로 템플릿을 펼칩니다."
+          }
+        }
+      }
+    },
+    "Expanded": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "확장"
+          }
+        }
+      }
+    },
     "Expanding…": {
       "extractionState": "manual",
       "localizations": {
@@ -3752,17 +4522,6 @@
         }
       }
     },
-    "Export…": {
-      "extractionState": "manual",
-      "localizations": {
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "보내기…"
-          }
-        }
-      }
-    },
     "Exported": {
       "extractionState": "manual",
       "localizations": {
@@ -3770,6 +4529,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "보냄"
+          }
+        }
+      }
+    },
+    "Export…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "보내기…"
           }
         }
       }
@@ -4093,6 +4863,17 @@
         }
       }
     },
+    "Finds the join link for your next meeting.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "다음 회의의 참가 링크를 찾습니다."
+          }
+        }
+      }
+    },
     "Finish recording the shortcut first.": {
       "extractionState": "manual",
       "localizations": {
@@ -4247,6 +5028,17 @@
         }
       }
     },
+    "For links that use {selection}.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "{selection}을 쓰는 링크에 해당합니다."
+          }
+        }
+      }
+    },
     "Forever": {
       "extractionState": "manual",
       "localizations": {
@@ -4254,6 +5046,28 @@
           "stringUnit": {
             "state": "translated",
             "value": "무기한"
+          }
+        }
+      }
+    },
+    "Formats as you type.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "입력하는 대로 서식을 적용합니다."
+          }
+        }
+      }
+    },
+    "Formatting": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "서식"
           }
         }
       }
@@ -4298,6 +5112,28 @@
           "stringUnit": {
             "state": "translated",
             "value": "무료 오픈 소스이며, 사비로 유지됩니다."
+          }
+        }
+      }
+    },
+    "From a JSON file; duplicates are skipped.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "JSON 파일에서 가져옵니다. 중복은 건너뜁니다."
+          }
+        }
+      }
+    },
+    "From the launcher's Actions menu.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "런처의 동작 메뉴에서."
           }
         }
       }
@@ -4500,6 +5336,61 @@
         }
       }
     },
+    "Heading": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "제목"
+          }
+        }
+      }
+    },
+    "Heading 1": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "제목 1"
+          }
+        }
+      }
+    },
+    "Heading 2": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "제목 2"
+          }
+        }
+      }
+    },
+    "Heading 3": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "제목 3"
+          }
+        }
+      }
+    },
+    "Hide": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "가리기"
+          }
+        }
+      }
+    },
     "Hide All Apps Except Frontmost": {
       "extractionState": "manual",
       "localizations": {
@@ -4533,6 +5424,28 @@
         }
       }
     },
+    "Hide when there are no upcoming events": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "예정된 일정이 없으면 가리기"
+          }
+        }
+      }
+    },
+    "High": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "높음"
+          }
+        }
+      }
+    },
     "history": {
       "extractionState": "manual",
       "localizations": {
@@ -4551,6 +5464,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "기록"
+          }
+        }
+      }
+    },
+    "Home covers its visible folders and cloud drives, never Library.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "홈은 보이는 폴더와 클라우드 드라이브를 포함하고, 라이브러리는 포함하지 않습니다."
           }
         }
       }
@@ -4786,13 +5710,13 @@
         }
       }
     },
-    "Import…": {
+    "Import reads a folder of Raycast script commands.": {
       "extractionState": "manual",
       "localizations": {
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "가져오기…"
+            "value": "가져오기는 Raycast 스크립트 명령 폴더를 읽습니다."
           }
         }
       }
@@ -4815,6 +5739,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "가져오는 중…"
+          }
+        }
+      }
+    },
+    "Import…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "가져오기…"
           }
         }
       }
@@ -4859,6 +5794,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "정보"
+          }
+        }
+      }
+    },
+    "Inline Code": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "인라인 코드"
           }
         }
       }
@@ -4918,17 +5864,6 @@
         }
       }
     },
-    "Install…": {
-      "extractionState": "manual",
-      "localizations": {
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "설치…"
-          }
-        }
-      }
-    },
     "Installed": {
       "extractionState": "manual",
       "localizations": {
@@ -4984,6 +5919,17 @@
         }
       }
     },
+    "Install…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "설치…"
+          }
+        }
+      }
+    },
     "Instructions": {
       "extractionState": "manual",
       "localizations": {
@@ -5017,6 +5963,28 @@
         }
       }
     },
+    "Italic": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "기울임꼴"
+          }
+        }
+      }
+    },
+    "Its global shortcut and launcher references go with it.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "전역 단축키와 런처 참조도 함께 사라집니다."
+          }
+        }
+      }
+    },
     "Its own menu bar item, showing a meeting icon or its title and countdown.": {
       "extractionState": "manual",
       "localizations": {
@@ -5024,6 +5992,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "회의 아이콘 또는 제목과 카운트다운을 보여 주는 전용 메뉴 막대 항목입니다."
+          }
+        }
+      }
+    },
+    "Its shortcut and launcher references go with it.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "단축키와 런처 참조도 함께 사라집니다."
           }
         }
       }
@@ -5182,6 +6161,17 @@
         }
       }
     },
+    "Keep visible — show time left": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "계속 표시 — 남은 시간 보기"
+          }
+        }
+      }
+    },
     "key": {
       "extractionState": "manual",
       "localizations": {
@@ -5211,6 +6201,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "키워드"
+          }
+        }
+      }
+    },
+    "Keyword expansion needs Accessibility access.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "키워드 펼치기에는 손쉬운 사용 접근이 필요합니다."
           }
         }
       }
@@ -5292,6 +6293,17 @@
         }
       }
     },
+    "Launch them with ⌘1–⌘5.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "⌘1–⌘5로 실행합니다."
+          }
+        }
+      }
+    },
     "launcher": {
       "extractionState": "manual",
       "localizations": {
@@ -5321,6 +6333,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "런처 아이콘"
+          }
+        }
+      }
+    },
+    "Launcher search still works.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "런처 검색은 계속 동작합니다."
           }
         }
       }
@@ -5365,6 +6388,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "레이아웃 명령"
+          }
+        }
+      }
+    },
+    "Learned privately from the results you pick.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "고른 결과에서만, 이 Mac 안에서 학습합니다."
           }
         }
       }
@@ -5556,6 +6590,28 @@
         }
       }
     },
+    "List, detail, form, grid, no-view and menu-bar commands, plus preferences, storage and OAuth.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "목록, 상세, 폼, 격자, 뷰 없음, 메뉴 막대 명령과 환경설정, 저장소, OAuth를 지원합니다."
+          }
+        }
+      }
+    },
+    "Listening…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "듣는 중…"
+          }
+        }
+      }
+    },
     "Load shell environment": {
       "extractionState": "manual",
       "localizations": {
@@ -5651,6 +6707,28 @@
           "stringUnit": {
             "state": "translated",
             "value": "로그인 항목"
+          }
+        }
+      }
+    },
+    "Look up a word…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "단어를 찾아보세요…"
+          }
+        }
+      }
+    },
+    "Low": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "낮음"
           }
         }
       }
@@ -5809,6 +6887,28 @@
         }
       }
     },
+    "Meeting Icon": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "회의 아이콘"
+          }
+        }
+      }
+    },
+    "Meeting Title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "회의 제목"
+          }
+        }
+      }
+    },
     "Meetings": {
       "extractionState": "manual",
       "localizations": {
@@ -5919,6 +7019,17 @@
         }
       }
     },
+    "Modifier-only hotkeys need Accessibility access. Click to grant it.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "보조 키만 쓰는 단축키에는 손쉬운 사용 접근이 필요합니다. 클릭해서 허용하세요."
+          }
+        }
+      }
+    },
     "More": {
       "extractionState": "manual",
       "localizations": {
@@ -5926,17 +7037,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "더 보기"
-          }
-        }
-      }
-    },
-    "Move “%@” to Trash?": {
-      "extractionState": "manual",
-      "localizations": {
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "“%@”을(를) 휴지통으로 이동할까요?"
           }
         }
       }
@@ -6095,6 +7195,28 @@
         }
       }
     },
+    "Move “%@” to Trash?": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“%@”을(를) 휴지통으로 이동할까요?"
+          }
+        }
+      }
+    },
+    "Moves the last window you used. Needs Accessibility.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "마지막으로 쓴 윈도우를 옮깁니다. 손쉬운 사용이 필요합니다."
+          }
+        }
+      }
+    },
     "Moves the window you were last in, using the Accessibility permission Tinycast already uses to paste.": {
       "extractionState": "manual",
       "localizations": {
@@ -6205,6 +7327,28 @@
         }
       }
     },
+    "Needed to read events and find join links.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "일정을 읽고 참가 링크를 찾는 데 필요합니다."
+          }
+        }
+      }
+    },
+    "Needed to read your selection.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "선택 영역을 읽는 데 필요합니다."
+          }
+        }
+      }
+    },
     "Needs confirmation": {
       "extractionState": "manual",
       "localizations": {
@@ -6234,6 +7378,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "새 채팅"
+          }
+        }
+      }
+    },
+    "New Custom Size": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "새 사용자 지정 크기"
           }
         }
       }
@@ -6403,6 +7558,17 @@
         }
       }
     },
+    "No custom commands yet.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "아직 사용자 지정 명령이 없습니다."
+          }
+        }
+      }
+    },
     "No Date": {
       "extractionState": "manual",
       "localizations": {
@@ -6410,6 +7576,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "날짜 없음"
+          }
+        }
+      }
+    },
+    "No definition found": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "뜻을 찾지 못했습니다"
           }
         }
       }
@@ -6667,6 +7844,28 @@
         }
       }
     },
+    "No Raycast install found in ~/.config.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "~/.config에서 Raycast 설치를 찾지 못했습니다."
+          }
+        }
+      }
+    },
+    "No registries are enabled. Turn one on under Install → Registries.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "켜진 레지스트리가 없습니다. 설치 → 레지스트리에서 하나 켜세요."
+          }
+        }
+      }
+    },
     "No registries are enabled. Turn one on under Install → Where to search.": {
       "extractionState": "manual",
       "localizations": {
@@ -6707,6 +7906,28 @@
           "stringUnit": {
             "state": "translated",
             "value": "결과 없음"
+          }
+        }
+      }
+    },
+    "No Results": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "결과 없음"
+          }
+        }
+      }
+    },
+    "No slash matches a name, like *.tmp. A slash matches the path, like **/[Cc]ache/**.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "슬래시가 없으면 이름과 맞습니다. 예: *.tmp. 슬래시가 있으면 경로와 맞습니다. 예: **/[Cc]ache/**."
           }
         }
       }
@@ -6777,6 +7998,17 @@
         }
       }
     },
+    "Not signed in": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "로그인하지 않음"
+          }
+        }
+      }
+    },
     "note": {
       "extractionState": "manual",
       "localizations": {
@@ -6828,6 +8060,39 @@
           "stringUnit": {
             "state": "translated",
             "value": "아직 설치된 것이 없습니다. 아래 설치에서 검색하세요."
+          }
+        }
+      }
+    },
+    "Nothing installed yet.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "아직 설치된 것이 없습니다."
+          }
+        }
+      }
+    },
+    "Nothing is loaded or sent while it is off.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "꺼져 있는 동안에는 불러오거나 보내지 않습니다."
+          }
+        }
+      }
+    },
+    "Nothing leaves this Mac.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 Mac 밖으로 나가지 않습니다."
           }
         }
       }
@@ -6887,6 +8152,17 @@
         }
       }
     },
+    "Nothing to offer — their features are off.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "제안할 것이 없습니다. 해당 기능이 꺼져 있습니다."
+          }
+        }
+      }
+    },
     "Nothing to show": {
       "extractionState": "manual",
       "localizations": {
@@ -6905,6 +8181,28 @@
           "stringUnit": {
             "state": "translated",
             "value": "밀기"
+          }
+        }
+      }
+    },
+    "Number format": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "숫자 형식"
+          }
+        }
+      }
+    },
+    "Numbered List": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "번호 매기기 목록"
           }
         }
       }
@@ -6938,6 +8236,28 @@
           "stringUnit": {
             "state": "translated",
             "value": "끄기"
+          }
+        }
+      }
+    },
+    "Off also skips Tinycast's own prompt.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "끄면 Tinycast 자체 프롬프트도 건너뜁니다."
+          }
+        }
+      }
+    },
+    "Off hides all of them and stops their shortcuts.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "끄면 모두 숨기고 단축키도 멈춥니다."
           }
         }
       }
@@ -7019,6 +8339,17 @@
         }
       }
     },
+    "Older ones are deleted.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "오래된 항목은 삭제됩니다."
+          }
+        }
+      }
+    },
     "On": {
       "extractionState": "manual",
       "localizations": {
@@ -7026,6 +8357,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "켜기"
+          }
+        }
+      }
+    },
+    "Once it has started.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "시작된 뒤."
           }
         }
       }
@@ -7070,6 +8412,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "%@ 열기"
+          }
+        }
+      }
+    },
+    "Open Accessibility settings": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "손쉬운 사용 설정 열기"
           }
         }
       }
@@ -7195,6 +8548,17 @@
         }
       }
     },
+    "Open in Dictionary": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사전에서 열기"
+          }
+        }
+      }
+    },
     "Open Language & Region": {
       "extractionState": "manual",
       "localizations": {
@@ -7202,6 +8566,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "언어 및 지역 열기"
+          }
+        }
+      }
+    },
+    "Open Meeting Links In": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "회의 링크를 열 앱"
           }
         }
       }
@@ -7371,6 +8746,28 @@
         }
       }
     },
+    "Optional for local endpoint": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "로컬 엔드포인트에는 선택 사항"
+          }
+        }
+      }
+    },
+    "Optional — register automatically": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "선택 사항 — 자동으로 등록"
+          }
+        }
+      }
+    },
     "Optional — you can enable this later in Settings › Permissions.": {
       "extractionState": "manual",
       "localizations": {
@@ -7393,17 +8790,6 @@
         }
       }
     },
-    "Optional for local endpoint": {
-      "extractionState": "manual",
-      "localizations": {
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "로컬 엔드포인트에는 선택 사항"
-          }
-        }
-      }
-    },
     "Optional, for example !notes": {
       "extractionState": "manual",
       "localizations": {
@@ -7422,6 +8808,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "옵션"
+          }
+        }
+      }
+    },
+    "Output volume": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "출력 음량"
           }
         }
       }
@@ -7525,6 +8922,17 @@
         }
       }
     },
+    "Pastes into the app you were using.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사용 중이던 앱에 붙여 넣습니다."
+          }
+        }
+      }
+    },
     "Permanently remove every saved clip and image.": {
       "extractionState": "manual",
       "localizations": {
@@ -7598,6 +9006,28 @@
           "stringUnit": {
             "state": "translated",
             "value": "맨 위에 고정"
+          }
+        }
+      }
+    },
+    "Plain Markdown files.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "일반 Markdown 파일입니다."
+          }
+        }
+      }
+    },
+    "Plain Markdown in a floating editor.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "떠 있는 편집기의 일반 Markdown입니다."
           }
         }
       }
@@ -7679,6 +9109,17 @@
         }
       }
     },
+    "Presets or any OpenAI-compatible endpoint. Keys stay in your login Keychain.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "프리셋이나 OpenAI 호환 엔드포인트입니다. 키는 로그인 키체인에 남습니다."
+          }
+        }
+      }
+    },
     "Press %@ anytime to start using Tinycast.": {
       "extractionState": "manual",
       "localizations": {
@@ -7686,6 +9127,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "언제든지 %@을(를) 눌러 Tinycast를 시작하세요."
+          }
+        }
+      }
+    },
+    "Press Globe again": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Globe를 다시 누르세요"
           }
         }
       }
@@ -7987,6 +9439,17 @@
         }
       }
     },
+    "Quote": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "인용"
+          }
+        }
+      }
+    },
     "ranking": {
       "extractionState": "manual",
       "localizations": {
@@ -8031,6 +9494,17 @@
         }
       }
     },
+    "Raycast's OAuth proxy, and its AI, browser and window services.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Raycast의 OAuth 프록시와 AI, 브라우저, 윈도우 서비스입니다."
+          }
+        }
+      }
+    },
     "Read tomorrow as well as the rest of today, everywhere meetings appear.": {
       "extractionState": "manual",
       "localizations": {
@@ -8049,6 +9523,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "메뉴 읽는 중…"
+          }
+        }
+      }
+    },
+    "Reads %@ events for join links. ": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "참가 링크를 찾으려고 %@ 일정을 읽습니다. "
           }
         }
       }
@@ -8093,6 +9578,28 @@
           "stringUnit": {
             "state": "translated",
             "value": "이 Mac이 유휴일 때 텍스트를 인식해 클립보드 검색에 포함합니다."
+          }
+        }
+      }
+    },
+    "Recognized on this Mac while idle.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "대기 중일 때 이 Mac에서 인식합니다."
+          }
+        }
+      }
+    },
+    "Record Hotkey": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "단축키 기록"
           }
         }
       }
@@ -8196,6 +9703,17 @@
         }
       }
     },
+    "Release Globe": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Globe에서 손을 떼세요"
+          }
+        }
+      }
+    },
     "remap": {
       "extractionState": "manual",
       "localizations": {
@@ -8203,6 +9721,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "다시 매핑"
+          }
+        }
+      }
+    },
+    "Remapping needs Accessibility access.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "다시 매핑하려면 손쉬운 사용 접근이 필요합니다."
           }
         }
       }
@@ -8251,6 +9780,17 @@
         }
       }
     },
+    "Remove All": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모두 제거"
+          }
+        }
+      }
+    },
     "Remove Attachments": {
       "extractionState": "manual",
       "localizations": {
@@ -8295,6 +9835,61 @@
         }
       }
     },
+    "Removes every clip and image.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "클립과 이미지를 모두 지웁니다."
+          }
+        }
+      }
+    },
+    "Render Markdown": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Markdown 렌더"
+          }
+        }
+      }
+    },
+    "Repeating a half keeps the same frame.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "반쪽을 반복하면 같은 프레임을 유지합니다."
+          }
+        }
+      }
+    },
+    "Repeating a half moves it across your displays.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "반쪽을 반복하면 디스플레이를 따라 옮깁니다."
+          }
+        }
+      }
+    },
+    "Repeating a half steps through ⅓ and ⅔.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "반쪽을 반복하면 ⅓과 ⅔를 거칩니다."
+          }
+        }
+      }
+    },
     "Replace": {
       "extractionState": "manual",
       "localizations": {
@@ -8302,6 +9897,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "대치"
+          }
+        }
+      }
+    },
+    "Replace writes into your document, and undo restores it. Preview shows a panel first.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "바꾸기는 문서에 바로 쓰고, 실행 취소로 되돌립니다. 미리보기는 먼저 패널을 보여 줍니다."
           }
         }
       }
@@ -8379,6 +9985,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "재설정…"
+          }
+        }
+      }
+    },
+    "Resizes the window you were last in, on the display it is already on.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "마지막으로 있던 윈도우를, 그 윈도우가 있는 디스플레이에서 크기를 바꿉니다."
           }
         }
       }
@@ -8592,6 +10209,17 @@
         }
       }
     },
+    "Run as you in /bin/zsh. Use full executable paths.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "/bin/zsh에서 사용자 권한으로 실행합니다. 실행 파일은 전체 경로를 쓰세요."
+          }
+        }
+      }
+    },
     "Run Command": {
       "extractionState": "manual",
       "localizations": {
@@ -8636,6 +10264,17 @@
         }
       }
     },
+    "Run Raycast extensions natively.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Raycast 확장을 네이티브로 실행합니다."
+          }
+        }
+      }
+    },
     "Run Raycast extensions natively. A running command holds a JavaScript engine on this Mac.": {
       "extractionState": "manual",
       "localizations": {
@@ -8676,6 +10315,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "시스템 동작 실행"
+          }
+        }
+      }
+    },
+    "Run your shortcuts from the launcher.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "런처에서 단축어를 실행합니다."
           }
         }
       }
@@ -8731,6 +10381,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "런처와 함께 떠 있는 윈도우의 크기를 조절합니다. 설정 창은 그대로입니다."
+          }
+        }
+      }
+    },
+    "Scales the launcher and its panels, not Settings.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "런처와 그 패널의 크기만 조절합니다. 설정은 그대로입니다."
           }
         }
       }
@@ -8911,6 +10572,17 @@
         }
       }
     },
+    "Search for actions…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "동작 검색…"
+          }
+        }
+      }
+    },
     "Search for apps and commands…": {
       "extractionState": "manual",
       "localizations": {
@@ -9032,6 +10704,17 @@
         }
       }
     },
+    "Search sensitivity": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "검색 민감도"
+          }
+        }
+      }
+    },
     "Search settings": {
       "extractionState": "manual",
       "localizations": {
@@ -9120,17 +10803,6 @@
         }
       }
     },
-    "Search…": {
-      "extractionState": "manual",
-      "localizations": {
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "검색…"
-          }
-        }
-      }
-    },
     "Searching menus reads the front app's menu bar.": {
       "extractionState": "manual",
       "localizations": {
@@ -9149,6 +10821,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "검색 중…"
+          }
+        }
+      }
+    },
+    "Search…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "검색…"
           }
         }
       }
@@ -9241,6 +10924,28 @@
         }
       }
     },
+    "Sent before every message, after Tinycast's own. Both are billed each turn.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tinycast 자체 프롬프트 다음, 모든 메시지 앞에 붙습니다. 둘 다 매 턴 과금됩니다."
+          }
+        }
+      }
+    },
+    "Separate from AI Chat's, so frequent use needn't bill an API.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AI 채팅과 분리되어, 자주 써도 API 요금이 나가지 않게 합니다."
+          }
+        }
+      }
+    },
     "Separate from chat's model on purpose: a shortcut you press all day should not wait on a slow chat model.": {
       "extractionState": "manual",
       "localizations": {
@@ -9248,6 +10953,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "채팅 모델과 일부러 분리했습니다. 하루 종일 누르는 단축키가 느린 채팅 모델을 기다려서는 안 됩니다."
+          }
+        }
+      }
+    },
+    "Separate from the Tinycast icon.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tinycast 아이콘과 별개입니다."
           }
         }
       }
@@ -9406,6 +11122,28 @@
         }
       }
     },
+    "Shortcuts still work when hidden.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "숨겨도 단축키는 동작합니다."
+          }
+        }
+      }
+    },
+    "Show": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "보기"
+          }
+        }
+      }
+    },
     "Show %@ in launcher": {
       "extractionState": "manual",
       "localizations": {
@@ -9461,6 +11199,17 @@
         }
       }
     },
+    "Show Formatting Bar": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "서식 막대 보기"
+          }
+        }
+      }
+    },
     "Show in Finder": {
       "extractionState": "manual",
       "localizations": {
@@ -9479,6 +11228,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "런처에 보기"
+          }
+        }
+      }
+    },
+    "Show in launcher. Its shortcut works either way.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "런처에 보기. 단축키는 어느 쪽이든 동작합니다."
           }
         }
       }
@@ -9560,6 +11320,17 @@
         }
       }
     },
+    "Show suggestions": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "제안 보기"
+          }
+        }
+      }
+    },
     "Show the join card": {
       "extractionState": "manual",
       "localizations": {
@@ -9582,6 +11353,17 @@
         }
       }
     },
+    "Shown below every search as “Use … with”. Includes quicklinks with an {argument}.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모든 검색 아래에 “다음으로 사용”으로 나옵니다. {argument}가 있는 퀵링크도 포함합니다."
+          }
+        }
+      }
+    },
     "Shut Down": {
       "extractionState": "manual",
       "localizations": {
@@ -9600,6 +11382,94 @@
           "stringUnit": {
             "state": "translated",
             "value": "Mac을 종료할까요?"
+          }
+        }
+      }
+    },
+    "Sign In": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "로그인"
+          }
+        }
+      }
+    },
+    "Sign Out": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "로그아웃"
+          }
+        }
+      }
+    },
+    "Sign-in could not open loopback port 4962. Close the app using it and retry.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "로그인이 루프백 포트 4962를 열지 못했습니다. 그 포트를 쓰는 앱을 닫고 다시 시도하세요."
+          }
+        }
+      }
+    },
+    "Sign-in required": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "로그인 필요"
+          }
+        }
+      }
+    },
+    "Sign-in required. Open this MCP server in Settings to sign in.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "로그인이 필요합니다. 설정에서 이 MCP 서버를 열고 로그인하세요."
+          }
+        }
+      }
+    },
+    "Sign-in timed out. Try again.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "로그인 시간이 초과되었습니다. 다시 시도하세요."
+          }
+        }
+      }
+    },
+    "Sign-in was declined.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "로그인이 거부되었습니다."
+          }
+        }
+      }
+    },
+    "Signed in": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "로그인됨"
           }
         }
       }
@@ -9857,7 +11727,29 @@
         }
       }
     },
+    "Strikethrough": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "취소선"
+          }
+        }
+      }
+    },
     "Suggested": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "제안"
+          }
+        }
+      }
+    },
+    "Suggestions": {
       "extractionState": "manual",
       "localizations": {
         "ko": {
@@ -10022,6 +11914,17 @@
         }
       }
     },
+    "Switch windows and search menu bar items.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "윈도우를 전환하고 메뉴 막대 항목을 검색합니다."
+          }
+        }
+      }
+    },
     "Switching windows reads and raises other apps' windows.": {
       "extractionState": "manual",
       "localizations": {
@@ -10040,6 +11943,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "기호"
+          }
+        }
+      }
+    },
+    "System": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "시스템"
           }
         }
       }
@@ -10121,6 +12035,17 @@
         }
       }
     },
+    "Task List": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "할 일 목록"
+          }
+        }
+      }
+    },
     "Team": {
       "extractionState": "manual",
       "localizations": {
@@ -10198,6 +12123,39 @@
         }
       }
     },
+    "The authorization server changed. Enter client credentials for the new server.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "인증 서버가 바뀌었습니다. 새 서버의 클라이언트 자격 증명을 입력하세요."
+          }
+        }
+      }
+    },
+    "The authorization server did not return a usable bearer token.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "인증 서버가 쓸 수 있는 베어러 토큰을 주지 않았습니다."
+          }
+        }
+      }
+    },
+    "The authorization server must advertise PKCE S256 support.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "인증 서버는 PKCE S256을 알려야 합니다."
+          }
+        }
+      }
+    },
     "The items in the Trash will be permanently deleted.": {
       "extractionState": "manual",
       "localizations": {
@@ -10249,6 +12207,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "네트워크 요청이 실패했습니다."
+          }
+        }
+      }
+    },
+    "The OAuth request failed. Check the connection and try again.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OAuth 요청에 실패했습니다. 연결을 확인하고 다시 시도하세요."
           }
         }
       }
@@ -10352,6 +12321,28 @@
         }
       }
     },
+    "The server's OAuth metadata is invalid.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "서버의 OAuth 메타데이터가 올바르지 않습니다."
+          }
+        }
+      }
+    },
+    "The sign-in response could not be verified.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "로그인 응답을 확인할 수 없습니다."
+          }
+        }
+      }
+    },
     "The text could not be translated.": {
       "extractionState": "manual",
       "localizations": {
@@ -10359,6 +12350,39 @@
           "stringUnit": {
             "state": "translated",
             "value": "텍스트를 번역할 수 없습니다."
+          }
+        }
+      }
+    },
+    "The ticked items, as one .tinycast file.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "체크한 항목을 .tinycast 파일 하나로 보냅니다."
+          }
+        }
+      }
+    },
+    "The WebSocket is closed.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WebSocket이 닫혀 있습니다."
+          }
+        }
+      }
+    },
+    "Their menus are never searched.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 앱들의 메뉴는 검색하지 않습니다."
           }
         }
       }
@@ -10616,6 +12640,17 @@
         }
       }
     },
+    "Tinycast Settings": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tinycast 설정"
+          }
+        }
+      }
+    },
     "Tinycast will relearn your preferred results as you use the launcher.": {
       "extractionState": "manual",
       "localizations": {
@@ -10638,6 +12673,17 @@
         }
       }
     },
+    "To a JSON file.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "JSON 파일로."
+          }
+        }
+      }
+    },
     "Today": {
       "extractionState": "manual",
       "localizations": {
@@ -10645,6 +12691,28 @@
           "stringUnit": {
             "state": "translated",
             "value": "오늘"
+          }
+        }
+      }
+    },
+    "today's": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "오늘"
+          }
+        }
+      }
+    },
+    "today's and tomorrow's": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "오늘과 내일"
           }
         }
       }
@@ -10744,6 +12812,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "도구"
+          }
+        }
+      }
+    },
+    "Tool call rounds": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "도구 호출 횟수"
           }
         }
       }
@@ -10968,6 +13047,28 @@
         }
       }
     },
+    "Type @slug to address one server. A chat asks before its first tool call.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "@슬러그로 서버 하나를 지정합니다. 채팅은 첫 도구 호출 전에 물어봅니다."
+          }
+        }
+      }
+    },
+    "Type a word to define": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "정의할 단어를 입력하세요"
+          }
+        }
+      }
+    },
     "Type to filter entries…": {
       "extractionState": "manual",
       "localizations": {
@@ -11012,17 +13113,6 @@
         }
       }
     },
-    "Uninstall “%@”?": {
-      "extractionState": "manual",
-      "localizations": {
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "“%@”을(를) 제거할까요?"
-          }
-        }
-      }
-    },
     "Uninstall Application": {
       "extractionState": "manual",
       "localizations": {
@@ -11041,6 +13131,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "확장 제거"
+          }
+        }
+      }
+    },
+    "Uninstall “%@”?": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“%@”을(를) 제거할까요?"
           }
         }
       }
@@ -11067,6 +13168,28 @@
         }
       }
     },
+    "Unless an action sets its own.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "동작이 따로 정하지 않은 경우."
+          }
+        }
+      }
+    },
+    "Unlimited": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "무제한"
+          }
+        }
+      }
+    },
     "Unpin Entry": {
       "extractionState": "manual",
       "localizations": {
@@ -11085,6 +13208,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "퀵링크 고정 해제"
+          }
+        }
+      }
+    },
+    "Unset matching Raycast shortcuts to avoid conflicts.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "충돌을 피하려면 같은 Raycast 단축키를 해제하세요."
           }
         }
       }
@@ -11144,28 +13278,6 @@
         }
       }
     },
-    "Use “%@” anyway": {
-      "extractionState": "manual",
-      "localizations": {
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "그래도 “%@” 사용"
-          }
-        }
-      }
-    },
-    "Use “%@” with…": {
-      "extractionState": "manual",
-      "localizations": {
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "“%@”을(를) 다음으로 사용…"
-          }
-        }
-      }
-    },
     "Use an installed account or connect an API endpoint.": {
       "extractionState": "manual",
       "localizations": {
@@ -11210,6 +13322,28 @@
         }
       }
     },
+    "Use “%@” anyway": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "그래도 “%@” 사용"
+          }
+        }
+      }
+    },
+    "Use “%@” with…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“%@”을(를) 다음으로 사용…"
+          }
+        }
+      }
+    },
     "Used by every action without a model of its own, except Translate.": {
       "extractionState": "manual",
       "localizations": {
@@ -11228,6 +13362,28 @@
           "stringUnit": {
             "state": "translated",
             "value": "다른 모델을 고르라고 하지 않는 한 Tinycast 기능이 사용합니다."
+          }
+        }
+      }
+    },
+    "Uses the command-line tools signed in on this Mac. Their keys are never stored.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 Mac에 로그인된 명령줄 도구를 씁니다. 그 키는 저장하지 않습니다."
+          }
+        }
+      }
+    },
+    "Uses the Spotlight index, only when you search.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "검색할 때만 Spotlight 색인을 씁니다."
           }
         }
       }
@@ -11309,6 +13465,17 @@
         }
       }
     },
+    "Waiting for sign-in…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "로그인 대기 중…"
+          }
+        }
+      }
+    },
     "Waiting for the uninstaller to finish.": {
       "extractionState": "manual",
       "localizations": {
@@ -11349,28 +13516,6 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tinycast에 오신 것을 환영합니다"
-          }
-        }
-      }
-    },
-    "What {selection} does when the app in front exposes nothing to read.": {
-      "extractionState": "manual",
-      "localizations": {
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "앞쪽 앱이 읽을 내용을 제공하지 않을 때 {selection}의 동작입니다."
-          }
-        }
-      }
-    },
-    "What ↵ does on an entry; ⌘↵ does the other one.": {
-      "extractionState": "manual",
-      "localizations": {
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "항목에서 ↵의 동작입니다. ⌘↵는 나머지입니다."
           }
         }
       }
@@ -11419,6 +13564,72 @@
         }
       }
     },
+    "What you open most, while the search field is empty.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "검색 필드가 비어 있을 때, 자주 여는 항목입니다."
+          }
+        }
+      }
+    },
+    "What {selection} does when the app in front exposes nothing to read.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "앞쪽 앱이 읽을 내용을 제공하지 않을 때 {selection}의 동작입니다."
+          }
+        }
+      }
+    },
+    "What ↵ does on an entry; ⌘↵ does the other one.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "항목에서 ↵의 동작입니다. ⌘↵는 나머지입니다."
+          }
+        }
+      }
+    },
+    "When %@ is pressed alone.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@만 눌렀을 때."
+          }
+        }
+      }
+    },
+    "When no meeting app handles the link.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "회의 앱이 링크를 처리하지 않을 때."
+          }
+        }
+      }
+    },
+    "When the next event appears.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "다음 일정이 나타날 때."
+          }
+        }
+      }
+    },
     "When the next event reaches the menu bar. Today includes the next 30 minutes.": {
       "extractionState": "manual",
       "localizations": {
@@ -11426,6 +13637,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "다음 이벤트가 메뉴 막대에 나타나는 시점입니다. 오늘은 앞으로 30분을 포함합니다."
+          }
+        }
+      }
+    },
+    "When the search field is empty.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "검색 필드가 비어 있을 때."
           }
         }
       }
@@ -11441,6 +13663,17 @@
         }
       }
     },
+    "Where the app supports it.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "앱이 지원하는 곳에서."
+          }
+        }
+      }
+    },
     "Where Tinycast looks when you search for an extension to install.": {
       "extractionState": "manual",
       "localizations": {
@@ -11448,6 +13681,28 @@
           "stringUnit": {
             "state": "translated",
             "value": "설치할 확장을 검색할 때 Tinycast가 살펴보는 곳입니다."
+          }
+        }
+      }
+    },
+    "While the launcher is open.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "런처가 열려 있는 동안."
+          }
+        }
+      }
+    },
+    "Wide Center": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "넓은 가운데"
           }
         }
       }
@@ -11514,6 +13769,28 @@
           "stringUnit": {
             "state": "translated",
             "value": "윈도우 관리"
+          }
+        }
+      }
+    },
+    "Window mode": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "윈도우 모드"
+          }
+        }
+      }
+    },
+    "With a decimal comma, ; separates arguments.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "소수점이 쉼표이면 인수 구분은 ;입니다."
           }
         }
       }
@@ -11624,6 +13901,3911 @@
           "stringUnit": {
             "state": "translated",
             "value": "축소"
+          }
+        }
+      }
+    },
+    "“%@” Failed": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“%@” 실패"
+          }
+        }
+      }
+    },
+    "↵ does this; ⌘↵ does the other.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "↵는 이쪽, ⌘↵는 다른 쪽입니다."
+          }
+        }
+      }
+    },
+    "%@  ⌘P": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@  ⌘P"
+          }
+        }
+      }
+    },
+    "%@ in this note": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 메모의 %@"
+          }
+        }
+      }
+    },
+    "%@ installs": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@회 설치"
+          }
+        }
+      }
+    },
+    "%@ isn't supported yet": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@은(는) 아직 지원되지 않습니다"
+          }
+        }
+      }
+    },
+    "%@ of %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ / %@"
+          }
+        }
+      }
+    },
+    "%@ tokens": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 토큰"
+          }
+        }
+      }
+    },
+    "%@ unit": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 단위"
+          }
+        }
+      }
+    },
+    "%lld columns": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld열"
+          }
+        }
+      }
+    },
+    "%lld files attached": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "파일 %lld개 첨부됨"
+          }
+        }
+      }
+    },
+    "%lld of %@ in the model picker": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모델 선택기에 %2$@개 중 %1$lld개"
+          }
+        }
+      }
+    },
+    "%lld of %lld": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld / %lld"
+          }
+        }
+      }
+    },
+    "%lld selected": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld개 선택됨"
+          }
+        }
+      }
+    },
+    "%lld tools": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "도구 %lld개"
+          }
+        }
+      }
+    },
+    "%lld%% left": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld%% 남음"
+          }
+        }
+      }
+    },
+    "1 tool": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "도구 1개"
+          }
+        }
+      }
+    },
+    "A key is already stored in Keychain": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "키가 이미 키체인에 저장되어 있습니다"
+          }
+        }
+      }
+    },
+    "Add": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "추가"
+          }
+        }
+      }
+    },
+    "Add Argument": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "인수 추가"
+          }
+        }
+      }
+    },
+    "Add Variable": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "변수 추가"
+          }
+        }
+      }
+    },
+    "Add a folder or application to search.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "검색할 폴더나 응용 프로그램을 추가하세요."
+          }
+        }
+      }
+    },
+    "Add a folder to search.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "검색할 폴더를 추가하세요."
+          }
+        }
+      }
+    },
+    "Added to every message": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모든 메시지에 추가됩니다"
+          }
+        }
+      }
+    },
+    "Addressed to %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@에게 보냄"
+          }
+        }
+      }
+    },
+    "Already installed. Reinstalling replaces it with the store's copy.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이미 설치되어 있습니다. 다시 설치하면 스토어 버전으로 바뀝니다."
+          }
+        }
+      }
+    },
+    "Answering": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "응답 중"
+          }
+        }
+      }
+    },
+    "Apply": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "적용"
+          }
+        }
+      }
+    },
+    "Ask Quick AI": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quick AI에 묻기"
+          }
+        }
+      }
+    },
+    "Asks macOS for microphone access.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS에 마이크 접근을 요청합니다."
+          }
+        }
+      }
+    },
+    "Attach Files…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "파일 첨부…"
+          }
+        }
+      }
+    },
+    "Attach files, search the web, choose tools": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "파일 첨부, 웹 검색, 도구 선택"
+          }
+        }
+      }
+    },
+    "Attached %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 첨부됨"
+          }
+        }
+      }
+    },
+    "Attached file %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "첨부 파일 %@"
+          }
+        }
+      }
+    },
+    "Auto": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "자동"
+          }
+        }
+      }
+    },
+    "Background refresh is off — enable it from Actions": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "백그라운드 새로 고침이 꺼져 있습니다. 동작에서 켜세요"
+          }
+        }
+      }
+    },
+    "Builds %@.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@을(를) 만듭니다."
+          }
+        }
+      }
+    },
+    "Calendar Settings…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "캘린더 설정…"
+          }
+        }
+      }
+    },
+    "Cancel %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 취소"
+          }
+        }
+      }
+    },
+    "Change reasoning effort": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "추론 강도 변경"
+          }
+        }
+      }
+    },
+    "Chat name": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "채팅 이름"
+          }
+        }
+      }
+    },
+    "Chats can't be saved on this Mac right now.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "지금은 이 Mac에 채팅을 저장할 수 없습니다."
+          }
+        }
+      }
+    },
+    "Check failed": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "확인 실패"
+          }
+        }
+      }
+    },
+    "Check for Updates remains available when off.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "꺼져 있어도 업데이트 확인은 쓸 수 있습니다."
+          }
+        }
+      }
+    },
+    "Checking %@…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 확인 중…"
+          }
+        }
+      }
+    },
+    "Checking this local endpoint for models…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 로컬 엔드포인트에서 모델을 확인하는 중…"
+          }
+        }
+      }
+    },
+    "Choose its windows": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "윈도우 선택"
+          }
+        }
+      }
+    },
+    "Choose the default model on the AI pane.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AI 패널에서 기본 모델을 선택하세요."
+          }
+        }
+      }
+    },
+    "Choose windows for %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@의 윈도우 선택"
+          }
+        }
+      }
+    },
+    "Close Window": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "윈도우 닫기"
+          }
+        }
+      }
+    },
+    "Codex API key": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Codex API 키"
+          }
+        }
+      }
+    },
+    "Collapsed": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "접힘"
+          }
+        }
+      }
+    },
+    "Command icon": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "명령 아이콘"
+          }
+        }
+      }
+    },
+    "Command path": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "명령 경로"
+          }
+        }
+      }
+    },
+    "Configure %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 구성"
+          }
+        }
+      }
+    },
+    "Configure AI…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "AI 구성…"
+          }
+        }
+      }
+    },
+    "Connection": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "연결"
+          }
+        }
+      }
+    },
+    "Context": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "컨텍스트"
+          }
+        }
+      }
+    },
+    "Conversations stay on this Mac.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "대화는 이 Mac에만 남습니다."
+          }
+        }
+      }
+    },
+    "Copy %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 복사"
+          }
+        }
+      }
+    },
+    "Copy Chat": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "채팅 복사"
+          }
+        }
+      }
+    },
+    "Custom": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사용자 설정"
+          }
+        }
+      }
+    },
+    "Delete All Chats…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모든 채팅 삭제…"
+          }
+        }
+      }
+    },
+    "Delete Chat…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "채팅 삭제…"
+          }
+        }
+      }
+    },
+    "Delete Custom Command": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사용자 설정 명령 삭제"
+          }
+        }
+      }
+    },
+    "Delete Snippet": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "스니펫 삭제"
+          }
+        }
+      }
+    },
+    "Deselect All": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모두 선택 해제"
+          }
+        }
+      }
+    },
+    "Dictate": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "받아쓰기"
+          }
+        }
+      }
+    },
+    "Dictation listening": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "받아쓰기 듣는 중"
+          }
+        }
+      }
+    },
+    "Dismiss Event": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이벤트 닫기"
+          }
+        }
+      }
+    },
+    "Display %lld, %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "디스플레이 %lld, %@"
+          }
+        }
+      }
+    },
+    "Download": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "다운로드"
+          }
+        }
+      }
+    },
+    "Duplicate": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "복제"
+          }
+        }
+      }
+    },
+    "Edit": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "편집"
+          }
+        }
+      }
+    },
+    "Edit Custom Command": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사용자 설정 명령 편집"
+          }
+        }
+      }
+    },
+    "Edit…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "편집…"
+          }
+        }
+      }
+    },
+    "Empty finds %@ the way Terminal does.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "비워 두면 터미널처럼 %@을(를) 찾습니다."
+          }
+        }
+      }
+    },
+    "Enter %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 입력"
+          }
+        }
+      }
+    },
+    "Enter URL…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL 입력…"
+          }
+        }
+      }
+    },
+    "Enter the text Tinycast expands.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tinycast가 확장할 텍스트를 입력하세요."
+          }
+        }
+      }
+    },
+    "Enter this room": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 룸으로 들어가기"
+          }
+        }
+      }
+    },
+    "Export as Markdown…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Markdown으로 내보내기…"
+          }
+        }
+      }
+    },
+    "Fills in another app's shortcuts. Others stay as they are.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "다른 앱의 단축키를 채웁니다. 나머지는 그대로 둡니다."
+          }
+        }
+      }
+    },
+    "Go back to the icon the extension ships.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "확장에 포함된 아이콘으로 되돌립니다."
+          }
+        }
+      }
+    },
+    "Hidden from root search": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "루트 검색에서 가려짐"
+          }
+        }
+      }
+    },
+    "Hide %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 가리기"
+          }
+        }
+      }
+    },
+    "Hide %@ settings": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 설정 가리기"
+          }
+        }
+      }
+    },
+    "Hide All": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모두 가리기"
+          }
+        }
+      }
+    },
+    "Hide reasoning": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "추론 가리기"
+          }
+        }
+      }
+    },
+    "Hide the prompt": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "프롬프트 가리기"
+          }
+        }
+      }
+    },
+    "Hide the system prompt": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "시스템 프롬프트 가리기"
+          }
+        }
+      }
+    },
+    "History Unavailable": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "기록을 사용할 수 없음"
+          }
+        }
+      }
+    },
+    "Import %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 가져오기"
+          }
+        }
+      }
+    },
+    "Import All": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모두 가져오기"
+          }
+        }
+      }
+    },
+    "In the menu, My Schedule and launcher search.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "메뉴, 내 일정, 런처 검색에 표시됩니다."
+          }
+        }
+      }
+    },
+    "Include %@ in meetings": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "회의에 %@ 포함"
+          }
+        }
+      }
+    },
+    "Insert…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "삽입…"
+          }
+        }
+      }
+    },
+    "Installed %@.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@을(를) 설치했습니다."
+          }
+        }
+      }
+    },
+    "Installed (%lld)": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "설치됨 (%lld)"
+          }
+        }
+      }
+    },
+    "Its saved API key will also be deleted from Keychain.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "저장된 API 키도 키체인에서 삭제됩니다."
+          }
+        }
+      }
+    },
+    "Its tools stop being offered, and its stored credentials are deleted.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "도구 제공이 중단되고 저장된 자격 증명이 삭제됩니다."
+          }
+        }
+      }
+    },
+    "Keys stay in your login Keychain, tied to the endpoint they were saved for.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "키는 저장할 때의 엔드포인트에 묶여 로그인 키체인에 보관됩니다."
+          }
+        }
+      }
+    },
+    "Keyword expansion needs Accessibility access": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "키워드 확장에는 손쉬운 사용 접근이 필요합니다"
+          }
+        }
+      }
+    },
+    "Loading available models…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사용 가능한 모델을 불러오는 중…"
+          }
+        }
+      }
+    },
+    "Loading models…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모델 불러오는 중…"
+          }
+        }
+      }
+    },
+    "Looking up extension…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "확장 찾는 중…"
+          }
+        }
+      }
+    },
+    "Lower finds names from scattered letters.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "낮출수록 흩어진 글자로도 이름을 찾습니다."
+          }
+        }
+      }
+    },
+    "MCP Settings…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MCP 설정…"
+          }
+        }
+      }
+    },
+    "Match the first letter to the text before the cursor.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "첫 글자를 커서 앞 텍스트에 맞춥니다."
+          }
+        }
+      }
+    },
+    "Microphone access required": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "마이크 접근이 필요합니다"
+          }
+        }
+      }
+    },
+    "Model download progress": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모델 다운로드 진행률"
+          }
+        }
+      }
+    },
+    "Models": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모델"
+          }
+        }
+      }
+    },
+    "Models are listed here once %@ is ready.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@이(가) 준비되면 여기에 모델이 표시됩니다."
+          }
+        }
+      }
+    },
+    "Move %@ to Trash": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@을(를) 휴지통으로 이동"
+          }
+        }
+      }
+    },
+    "NAME": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이름"
+          }
+        }
+      }
+    },
+    "Needed to record your dictation.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "받아쓰기를 녹음하는 데 필요합니다."
+          }
+        }
+      }
+    },
+    "Next Match  ⌘G": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "다음 일치  ⌘G"
+          }
+        }
+      }
+    },
+    "No Chats Yet": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "아직 채팅 없음"
+          }
+        }
+      }
+    },
+    "No MCP servers are connected": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "연결된 MCP 서버가 없습니다"
+          }
+        }
+      }
+    },
+    "No compatible text models were returned.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "호환되는 텍스트 모델이 없습니다."
+          }
+        }
+      }
+    },
+    "No extension matches “%@”.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“%@”와(과) 일치하는 확장이 없습니다."
+          }
+        }
+      }
+    },
+    "No matches for “%@”.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“%@”와(과) 일치하는 항목이 없습니다."
+          }
+        }
+      }
+    },
+    "No microphone available": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사용할 수 있는 마이크 없음"
+          }
+        }
+      }
+    },
+    "No model matches “%@”.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“%@”와(과) 일치하는 모델이 없습니다."
+          }
+        }
+      }
+    },
+    "No notes found": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "메모를 찾을 수 없음"
+          }
+        }
+      }
+    },
+    "No quicklink matches “%@”.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“%@”와(과) 일치하는 퀵링크가 없습니다."
+          }
+        }
+      }
+    },
+    "No quicklinks yet.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "아직 퀵링크가 없습니다."
+          }
+        }
+      }
+    },
+    "No snippets yet.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "아직 스니펫이 없습니다."
+          }
+        }
+      }
+    },
+    "No symbols match “%@”.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“%@”와(과) 일치하는 기호가 없습니다."
+          }
+        }
+      }
+    },
+    "None yet": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "아직 없음"
+          }
+        }
+      }
+    },
+    "Not installed": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "설치 안 됨"
+          }
+        }
+      }
+    },
+    "Nothing added": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "추가된 항목 없음"
+          }
+        }
+      }
+    },
+    "Nothing here yet.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "아직 아무것도 없습니다."
+          }
+        }
+      }
+    },
+    "Older ones are deleted, except pinned chats.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "고정된 채팅을 제외한 오래된 채팅은 삭제됩니다."
+          }
+        }
+      }
+    },
+    "On This Mac": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 Mac에서"
+          }
+        }
+      }
+    },
+    "Opens Privacy & Security › Calendars.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "개인정보 보호 및 보안 › 캘린더를 엽니다."
+          }
+        }
+      }
+    },
+    "Opens Privacy & Security › Microphone.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "개인정보 보호 및 보안 › 마이크를 엽니다."
+          }
+        }
+      }
+    },
+    "Opens a list of choices": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "선택 목록을 엽니다"
+          }
+        }
+      }
+    },
+    "Open…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "열기…"
+          }
+        }
+      }
+    },
+    "Optional label": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "선택 사항 레이블"
+          }
+        }
+      }
+    },
+    "Organizer": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "주최자"
+          }
+        }
+      }
+    },
+    "Page": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "페이지"
+          }
+        }
+      }
+    },
+    "Pin Chat": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "채팅 고정"
+          }
+        }
+      }
+    },
+    "Pinned": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "고정됨"
+          }
+        }
+      }
+    },
+    "Pinned to the top": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "맨 위에 고정됨"
+          }
+        }
+      }
+    },
+    "Preparing model download": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모델 다운로드 준비 중"
+          }
+        }
+      }
+    },
+    "Press Return to finish dictating or Escape to cancel. Protected fields may refuse insertion.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Return을 눌러 받아쓰기를 마치거나 Escape로 취소하세요. 보호된 필드는 삽입을 거부할 수 있습니다."
+          }
+        }
+      }
+    },
+    "Previous Match  ⇧⌘G": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이전 일치  ⇧⌘G"
+          }
+        }
+      }
+    },
+    "Provider": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "제공자"
+          }
+        }
+      }
+    },
+    "Quicklink icon": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "퀵링크 아이콘"
+          }
+        }
+      }
+    },
+    "Ready": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "준비됨"
+          }
+        }
+      }
+    },
+    "Records audio only while dictating.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "받아쓰는 동안에만 오디오를 녹음합니다."
+          }
+        }
+      }
+    },
+    "Refreshes in the background": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "백그라운드에서 새로 고침"
+          }
+        }
+      }
+    },
+    "Regenerate Response": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "응답 다시 생성"
+          }
+        }
+      }
+    },
+    "Releasing it when idle frees memory. The next dictation takes a moment longer.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "유휴 상태에서 해제하면 메모리가 확보됩니다. 다음 받아쓰기는 조금 더 오래 걸립니다."
+          }
+        }
+      }
+    },
+    "Remove %@?": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@을(를) 제거할까요?"
+          }
+        }
+      }
+    },
+    "Remove API Connection": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "API 연결 제거"
+          }
+        }
+      }
+    },
+    "Remove argument": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "인수 제거"
+          }
+        }
+      }
+    },
+    "Remove connection?": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "연결을 제거할까요?"
+          }
+        }
+      }
+    },
+    "Remove “%@”?": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“%@”을(를) 제거할까요?"
+          }
+        }
+      }
+    },
+    "Rename %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 이름 변경"
+          }
+        }
+      }
+    },
+    "Rename…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이름 변경…"
+          }
+        }
+      }
+    },
+    "Reply “%@”": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“%@”(으)로 답장"
+          }
+        }
+      }
+    },
+    "Reply: %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "답장: %@"
+          }
+        }
+      }
+    },
+    "Reset learned launcher ranking?": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "학습된 런처 순위를 재설정할까요?"
+          }
+        }
+      }
+    },
+    "Resets %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 재설정"
+          }
+        }
+      }
+    },
+    "Reveals the snippets folder in Finder.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finder에서 스니펫 폴더를 보여줍니다."
+          }
+        }
+      }
+    },
+    "Run %@ in Terminal, then check again.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "터미널에서 %@을(를) 실행한 뒤 다시 확인하세요."
+          }
+        }
+      }
+    },
+    "Run this layout": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 레이아웃 실행"
+          }
+        }
+      }
+    },
+    "Running": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "실행 중"
+          }
+        }
+      }
+    },
+    "Save a project's windows as a room, then walk into it with one shortcut.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "프로젝트의 윈도우를 룸으로 저장하고 단축키 하나로 들어가세요."
+          }
+        }
+      }
+    },
+    "Search chats": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "채팅 검색"
+          }
+        }
+      }
+    },
+    "Search for an extension": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "확장 검색"
+          }
+        }
+      }
+    },
+    "Searched web": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "웹 검색함"
+          }
+        }
+      }
+    },
+    "Searching notes…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "메모 검색 중…"
+          }
+        }
+      }
+    },
+    "Searching web": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "웹 검색 중"
+          }
+        }
+      }
+    },
+    "Select All": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모두 선택"
+          }
+        }
+      }
+    },
+    "Select a provider": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "제공자 선택"
+          }
+        }
+      }
+    },
+    "Send  ↵": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "보내기  ↵"
+          }
+        }
+      }
+    },
+    "Servers": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "서버"
+          }
+        }
+      }
+    },
+    "Set for %@ only, each time it starts.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@이(가) 시작될 때마다 그 앱에만 설정됩니다."
+          }
+        }
+      }
+    },
+    "Settings changed here are written to the file, and edits to it apply here.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "여기서 바꾼 설정은 파일에 기록되고, 파일을 고치면 여기에 적용됩니다."
+          }
+        }
+      }
+    },
+    "Shortcut preset": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "단축키 프리셋"
+          }
+        }
+      }
+    },
+    "Show %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 보기"
+          }
+        }
+      }
+    },
+    "Show All": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모두 보기"
+          }
+        }
+      }
+    },
+    "Show reasoning": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "추론 보기"
+          }
+        }
+      }
+    },
+    "Show the prompt": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "프롬프트 보기"
+          }
+        }
+      }
+    },
+    "Show the system prompt": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "시스템 프롬프트 보기"
+          }
+        }
+      }
+    },
+    "Sign in required": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "로그인이 필요합니다"
+          }
+        }
+      }
+    },
+    "Snippet argument %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "스니펫 인수 %@"
+          }
+        }
+      }
+    },
+    "Source %lld: %@, %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "출처 %lld: %@, %@"
+          }
+        }
+      }
+    },
+    "Sources": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "출처"
+          }
+        }
+      }
+    },
+    "Status": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "상태"
+          }
+        }
+      }
+    },
+    "Stop Dictating": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "받아쓰기 중지"
+          }
+        }
+      }
+    },
+    "Stop excluding %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 제외 해제"
+          }
+        }
+      }
+    },
+    "Suggested replies": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "추천 답장"
+          }
+        }
+      }
+    },
+    "Support %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 후원"
+          }
+        }
+      }
+    },
+    "Switch this chat's model": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 채팅의 모델 전환"
+          }
+        }
+      }
+    },
+    "System default": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "시스템 기본값"
+          }
+        }
+      }
+    },
+    "That doesn't look like a GitHub repository.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "GitHub 저장소가 아닌 것 같습니다."
+          }
+        }
+      }
+    },
+    "The login Keychain could not be accessed.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "로그인 키체인에 접근할 수 없습니다."
+          }
+        }
+      }
+    },
+    "The oldest messages no longer fit and are left out.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "가장 오래된 메시지는 더 이상 들어가지 않아 제외됩니다."
+          }
+        }
+      }
+    },
+    "This doesn't look like a URL, file path, or deeplink.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL, 파일 경로, 딥링크가 아닌 것 같습니다."
+          }
+        }
+      }
+    },
+    "This location no longer exists.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 위치가 더 이상 존재하지 않습니다."
+          }
+        }
+      }
+    },
+    "This model has no reasoning setting": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 모델에는 추론 설정이 없습니다"
+          }
+        }
+      }
+    },
+    "This model is already added.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 모델은 이미 추가되어 있습니다."
+          }
+        }
+      }
+    },
+    "Tinycast could not find the %@ command.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tinycast가 %@ 명령을 찾지 못했습니다."
+          }
+        }
+      }
+    },
+    "Tinycast leaves it alone, and its models stay out of every model picker.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tinycast가 손대지 않으며, 그 모델은 어떤 모델 선택기에도 표시되지 않습니다."
+          }
+        }
+      }
+    },
+    "Tools · %lld of %lld": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "도구 · %lld / %lld"
+          }
+        }
+      }
+    },
+    "Tools · Not with this model": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "도구 · 이 모델에서는 불가"
+          }
+        }
+      }
+    },
+    "Tools · Off": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "도구 · 끔"
+          }
+        }
+      }
+    },
+    "Transcribing dictation": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "받아쓰기 변환 중"
+          }
+        }
+      }
+    },
+    "Trust": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "신뢰"
+          }
+        }
+      }
+    },
+    "Turned off": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "꺼짐"
+          }
+        }
+      }
+    },
+    "Turns the calendar on, then asks macOS for access.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "캘린더를 켠 뒤 macOS에 접근을 요청합니다."
+          }
+        }
+      }
+    },
+    "Type a model or company name. %lld models available.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모델이나 회사 이름을 입력하세요. 모델 %lld개 사용 가능."
+          }
+        }
+      }
+    },
+    "Unavailable": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사용할 수 없음"
+          }
+        }
+      }
+    },
+    "Uninstall": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "제거"
+          }
+        }
+      }
+    },
+    "Uninstall %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 제거"
+          }
+        }
+      }
+    },
+    "Unpin Chat": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "채팅 고정 해제"
+          }
+        }
+      }
+    },
+    "Update": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "업데이트"
+          }
+        }
+      }
+    },
+    "Update All": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모두 업데이트"
+          }
+        }
+      }
+    },
+    "Use Tools": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "도구 사용"
+          }
+        }
+      }
+    },
+    "Use placeholders for the clipboard, current date, arguments and more.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "클립보드, 현재 날짜, 인수 등에 플레이스홀더를 사용하세요."
+          }
+        }
+      }
+    },
+    "Variables": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "변수"
+          }
+        }
+      }
+    },
+    "Web Search": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "웹 검색"
+          }
+        }
+      }
+    },
+    "Web search is on": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "웹 검색 켜짐"
+          }
+        }
+      }
+    },
+    "Web search is on; click to turn it off": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "웹 검색이 켜져 있습니다. 클릭하면 끕니다"
+          }
+        }
+      }
+    },
+    "What %@ does with its result": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@이(가) 결과로 하는 일"
+          }
+        }
+      }
+    },
+    "owner/repo, or a link to the extension's folder": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "owner/repo 또는 확장 폴더 링크"
+          }
+        }
+      }
+    },
+    "↵ does this, and Paste takes its shortcut.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "↵가 이 동작을 하고, 붙여넣기가 그 단축키를 가져갑니다."
+          }
+        }
+      }
+    },
+    "About %@ MB on disk": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "디스크에서 약 %@MB"
+          }
+        }
+      }
+    },
+    "Adapt capitalization": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "대소문자 맞추기"
+          }
+        }
+      }
+    },
+    "Add up to three, filled in beside the search field before the command runs.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "최대 3개까지 추가하며, 명령 실행 전에 검색 필드 옆에서 채웁니다."
+          }
+        }
+      }
+    },
+    "Allow Tinycast to use the microphone in System Settings": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "시스템 설정에서 Tinycast의 마이크 사용을 허용하세요"
+          }
+        }
+      }
+    },
+    "Allow Tinycast to use the microphone in System Settings.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "시스템 설정에서 Tinycast의 마이크 사용을 허용하세요."
+          }
+        }
+      }
+    },
+    "Argument name": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "인수 이름"
+          }
+        }
+      }
+    },
+    "Ask before running this command.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 명령을 실행하기 전에 묻습니다."
+          }
+        }
+      }
+    },
+    "Attach PDFs or text files": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PDF나 텍스트 파일 첨부"
+          }
+        }
+      }
+    },
+    "Attach images or text files": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이미지나 텍스트 파일 첨부"
+          }
+        }
+      }
+    },
+    "Attach images, PDFs or text files": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이미지, PDF, 텍스트 파일 첨부"
+          }
+        }
+      }
+    },
+    "Attach text files": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "텍스트 파일 첨부"
+          }
+        }
+      }
+    },
+    "Automatically check for updates": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "자동으로 업데이트 확인"
+          }
+        }
+      }
+    },
+    "Choose": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "선택"
+          }
+        }
+      }
+    },
+    "Choose the folder this command runs in.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 명령이 실행될 폴더를 선택하세요."
+          }
+        }
+      }
+    },
+    "Click into a text field first": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "먼저 텍스트 필드를 클릭하세요"
+          }
+        }
+      }
+    },
+    "Command editor": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "명령 편집기"
+          }
+        }
+      }
+    },
+    "Command name": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "명령 이름"
+          }
+        }
+      }
+    },
+    "Confirm on screen after the command succeeds.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "명령이 성공하면 화면에 확인을 표시합니다."
+          }
+        }
+      }
+    },
+    "Confirm on screen after this snippet is inserted.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 스니펫이 삽입되면 화면에 확인을 표시합니다."
+          }
+        }
+      }
+    },
+    "Confirmation": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "확인"
+          }
+        }
+      }
+    },
+    "Connection failed": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "연결 실패"
+          }
+        }
+      }
+    },
+    "Copy Link": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "링크 복사"
+          }
+        }
+      }
+    },
+    "Could not connect to the local service. Start its app or check the socket path: %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "로컬 서비스에 연결할 수 없습니다. 해당 앱을 실행하거나 소켓 경로를 확인하세요: %@"
+          }
+        }
+      }
+    },
+    "Couldn't paste dictation into this app": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 앱에 받아쓰기를 붙여넣을 수 없습니다"
+          }
+        }
+      }
+    },
+    "Couldn't restore dictation volume: %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "받아쓰기 음량을 복원할 수 없습니다: %@"
+          }
+        }
+      }
+    },
+    "Couldn't start recording from this microphone.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 마이크로 녹음을 시작할 수 없습니다."
+          }
+        }
+      }
+    },
+    "Couldn't update dictation volume: %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "받아쓰기 음량을 바꿀 수 없습니다: %@"
+          }
+        }
+      }
+    },
+    "Couldn’t copy link": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "링크를 복사할 수 없습니다"
+          }
+        }
+      }
+    },
+    "Create Custom Command": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사용자 설정 명령 만들기"
+          }
+        }
+      }
+    },
+    "Delete Room": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "룸 삭제"
+          }
+        }
+      }
+    },
+    "Dictation": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "받아쓰기"
+          }
+        }
+      }
+    },
+    "Disabled snippets cannot be expanded.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "꺼진 스니펫은 확장되지 않습니다."
+          }
+        }
+      }
+    },
+    "Double taps work in toggle mode.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "두 번 탭은 토글 모드에서 동작합니다."
+          }
+        }
+      }
+    },
+    "Download a dictation model in Settings": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "설정에서 받아쓰기 모델을 다운로드하세요"
+          }
+        }
+      }
+    },
+    "Download the dictation model in Settings first": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "먼저 설정에서 받아쓰기 모델을 다운로드하세요"
+          }
+        }
+      }
+    },
+    "Download the selected dictation model first.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "먼저 선택한 받아쓰기 모델을 다운로드하세요."
+          }
+        }
+      }
+    },
+    "Downloading model…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모델 다운로드 중…"
+          }
+        }
+      }
+    },
+    "Duration": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "기간"
+          }
+        }
+      }
+    },
+    "Enable Dictation": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "받아쓰기 켜기"
+          }
+        }
+      }
+    },
+    "Enable Dictation?": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "받아쓰기를 켤까요?"
+          }
+        }
+      }
+    },
+    "Engine": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "엔진"
+          }
+        }
+      }
+    },
+    "Event created": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이벤트를 만들었습니다"
+          }
+        }
+      }
+    },
+    "Event editor": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이벤트 편집기"
+          }
+        }
+      }
+    },
+    "Extensions are disabled — enable them in Settings": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "확장이 꺼져 있습니다. 설정에서 켜세요"
+          }
+        }
+      }
+    },
+    "Finishing download…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "다운로드 마무리 중…"
+          }
+        }
+      }
+    },
+    "Hide from Root Search": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "루트 검색에서 가리기"
+          }
+        }
+      }
+    },
+    "Hold to talk needs a key combination or a single modifier": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "누르고 말하기에는 키 조합이나 modifier 키 하나가 필요합니다"
+          }
+        }
+      }
+    },
+    "Insert a dynamic placeholder": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "동적 플레이스홀더 삽입"
+          }
+        }
+      }
+    },
+    "Install Extension": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "확장 설치"
+          }
+        }
+      }
+    },
+    "Its shortcut, favorite slot and learned ranking go with it.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "단축키, 즐겨찾기 슬롯, 학습된 순위도 함께 사라집니다."
+          }
+        }
+      }
+    },
+    "Keep it above the other quicklinks.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "다른 퀵링크보다 위에 둡니다."
+          }
+        }
+      }
+    },
+    "Language": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "언어"
+          }
+        }
+      }
+    },
+    "Link copied": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "링크를 복사했습니다"
+          }
+        }
+      }
+    },
+    "List this command alongside apps and other commands.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 명령을 앱 및 다른 명령과 함께 표시합니다."
+          }
+        }
+      }
+    },
+    "List this quicklink alongside apps and commands.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 퀵링크를 앱 및 명령과 함께 표시합니다."
+          }
+        }
+      }
+    },
+    "Memory": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "메모리"
+          }
+        }
+      }
+    },
+    "Microphone": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "마이크"
+          }
+        }
+      }
+    },
+    "Microphone Muted": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "마이크 음소거됨"
+          }
+        }
+      }
+    },
+    "Microphone Unmuted": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "마이크 음소거 해제됨"
+          }
+        }
+      }
+    },
+    "Name & Icon": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이름 및 아이콘"
+          }
+        }
+      }
+    },
+    "No audio input device is available.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사용할 수 있는 오디오 입력 장치가 없습니다."
+          }
+        }
+      }
+    },
+    "No custom commands yet": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "아직 사용자 설정 명령이 없습니다"
+          }
+        }
+      }
+    },
+    "No matching commands": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "일치하는 명령 없음"
+          }
+        }
+      }
+    },
+    "No microphone is available.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사용할 수 있는 마이크가 없습니다."
+          }
+        }
+      }
+    },
+    "No speech was recorded": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "녹음된 음성이 없습니다"
+          }
+        }
+      }
+    },
+    "Not asked yet": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "아직 요청 안 함"
+          }
+        }
+      }
+    },
+    "Nothing matches “%@”.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“%@”와(과) 일치하는 항목이 없습니다."
+          }
+        }
+      }
+    },
+    "Only join known meeting services": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알려진 회의 서비스만 참여"
+          }
+        }
+      }
+    },
+    "Open a window with everything the command prints.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "명령이 출력한 모든 내용을 윈도우로 엽니다."
+          }
+        }
+      }
+    },
+    "Optional. Type this to expand the snippet.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "선택 사항. 이것을 입력하면 스니펫이 확장됩니다."
+          }
+        }
+      }
+    },
+    "Output": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "출력"
+          }
+        }
+      }
+    },
+    "Passed to the command in order as $1, $2 …": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "$1, $2 … 순서로 명령에 전달됩니다"
+          }
+        }
+      }
+    },
+    "Preparing download…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "다운로드 준비 중…"
+          }
+        }
+      }
+    },
+    "Put Answer in Search Bar": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "결과를 검색 막대에 넣기"
+          }
+        }
+      }
+    },
+    "Quicklink editor": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "퀵링크 편집기"
+          }
+        }
+      }
+    },
+    "Quicklink link": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "퀵링크 링크"
+          }
+        }
+      }
+    },
+    "Quicklink name": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "퀵링크 이름"
+          }
+        }
+      }
+    },
+    "Reasoning": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "추론"
+          }
+        }
+      }
+    },
+    "Record a single modifier or a key combination for hold to talk.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "누르고 말하기에 쓸 modifier 키 하나나 키 조합을 기록하세요."
+          }
+        }
+      }
+    },
+    "Release model from memory": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "메모리에서 모델 해제"
+          }
+        }
+      }
+    },
+    "Release or add a key": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "떼거나 키를 추가하세요"
+          }
+        }
+      }
+    },
+    "Release to record": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "떼면 기록됩니다"
+          }
+        }
+      }
+    },
+    "Required before running": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "실행 전에 필요"
+          }
+        }
+      }
+    },
+    "Required. Shown in the library and launcher.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "필수. 라이브러리와 런처에 표시됩니다."
+          }
+        }
+      }
+    },
+    "Save Command": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "명령 저장"
+          }
+        }
+      }
+    },
+    "Save Quicklink": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "퀵링크 저장"
+          }
+        }
+      }
+    },
+    "Save Snippet": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "스니펫 저장"
+          }
+        }
+      }
+    },
+    "Screen locking is unavailable on this Mac.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 Mac에서는 화면 잠금을 사용할 수 없습니다."
+          }
+        }
+      }
+    },
+    "Search GitHub": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "GitHub 검색"
+          }
+        }
+      }
+    },
+    "Search custom commands…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사용자 설정 명령 검색…"
+          }
+        }
+      }
+    },
+    "Shell command": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "셸 명령"
+          }
+        }
+      }
+    },
+    "Shortcut": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "단축키"
+          }
+        }
+      }
+    },
+    "Shortcut behavior": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "단축키 동작"
+          }
+        }
+      }
+    },
+    "Show or Hide Sidebar  ⌘B": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사이드바 보기/가리기  ⌘B"
+          }
+        }
+      }
+    },
+    "Sidebar": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사이드바"
+          }
+        }
+      }
+    },
+    "Silent": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "조용히"
+          }
+        }
+      }
+    },
+    "Snippet %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "스니펫 %@"
+          }
+        }
+      }
+    },
+    "Snippet editor": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "스니펫 편집기"
+          }
+        }
+      }
+    },
+    "Snippet name": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "스니펫 이름"
+          }
+        }
+      }
+    },
+    "Snippet template": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "스니펫 템플릿"
+          }
+        }
+      }
+    },
+    "Sources ~/.zshrc for aliases, functions and PATH. Slower to start.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "별칭, 함수, PATH를 위해 ~/.zshrc를 불러옵니다. 시작이 느려집니다."
+          }
+        }
+      }
+    },
+    "Start": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "시작"
+          }
+        }
+      }
+    },
+    "Start the local service or check its socket path: %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "로컬 서비스를 시작하거나 소켓 경로를 확인하세요: %@"
+          }
+        }
+      }
+    },
+    "Stop and insert the text  ↵": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "중지하고 텍스트 삽입  ↵"
+          }
+        }
+      }
+    },
+    "Tap again for double": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "두 번 누르려면 다시 탭"
+          }
+        }
+      }
+    },
+    "The current microphone does not support software mute.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "현재 마이크는 소프트웨어 음소거를 지원하지 않습니다."
+          }
+        }
+      }
+    },
+    "The current microphone mute is controlled externally.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "현재 마이크 음소거는 외부에서 제어됩니다."
+          }
+        }
+      }
+    },
+    "The dictation model couldn't process the recording.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "받아쓰기 모델이 녹음을 처리하지 못했습니다."
+          }
+        }
+      }
+    },
+    "The folder the command starts in. Leave empty for your home folder.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "명령이 시작할 폴더입니다. 비워 두면 홈 폴더입니다."
+          }
+        }
+      }
+    },
+    "The microphone did not confirm the mute change. Try again.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "마이크가 음소거 변경을 확인하지 않았습니다. 다시 시도하세요."
+          }
+        }
+      }
+    },
+    "The script could not be written.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "스크립트를 기록할 수 없습니다."
+          }
+        }
+      }
+    },
+    "The shell could not be started.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "셸을 시작할 수 없습니다."
+          }
+        }
+      }
+    },
+    "This command was deleted. Copy your changes before closing.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 명령은 삭제되었습니다. 닫기 전에 변경 사항을 복사하세요."
+          }
+        }
+      }
+    },
+    "This macOS version does not expose screen locking.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 macOS 버전은 화면 잠금을 제공하지 않습니다."
+          }
+        }
+      }
+    },
+    "This quicklink was deleted. Copy your changes before closing.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 퀵링크는 삭제되었습니다. 닫기 전에 변경 사항을 복사하세요."
+          }
+        }
+      }
+    },
+    "This removes %@ from your snippets folder.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "스니펫 폴더에서 %@을(를) 제거합니다."
+          }
+        }
+      }
+    },
+    "This shortcut is also used by %@. Record another shortcut.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 단축키는 %@에서도 사용합니다. 다른 단축키를 기록하세요."
+          }
+        }
+      }
+    },
+    "Title": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "제목"
+          }
+        }
+      }
+    },
+    "Tools · %@ of %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "도구 · %@ / %@"
+          }
+        }
+      }
+    },
+    "Transcribe speech on your Mac with a local model.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "로컬 모델로 이 Mac에서 음성을 받아씁니다."
+          }
+        }
+      }
+    },
+    "Turn Calendar on in Settings first": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "먼저 설정에서 캘린더를 켜세요"
+          }
+        }
+      }
+    },
+    "Use full executable paths.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "실행 파일의 전체 경로를 사용하세요."
+          }
+        }
+      }
+    },
+    "Wait for the current dictation to finish.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "현재 받아쓰기가 끝날 때까지 기다리세요."
+          }
+        }
+      }
+    },
+    "When finished": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "끝나면"
           }
         }
       }

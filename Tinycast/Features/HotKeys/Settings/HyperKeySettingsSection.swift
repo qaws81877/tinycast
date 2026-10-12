@@ -24,8 +24,8 @@ struct HyperKeySettingsSection: View {
     }
 
     private var hyperSubtitle: String {
-        guard settings.hyperKey != .none else { return "Remap one key to \(hyperGlyphs) held together." }
-        return "\(settings.hyperKey.title) sends \(hyperGlyphs), shown as ✦ in shortcuts."
+        guard settings.hyperKey != .none else { return "Remap one key to %@ held together.".localized(hyperGlyphs) }
+        return "%@ sends %@, shown as ✦ in shortcuts.".localized(settings.hyperKey.title.localized, hyperGlyphs)
     }
 
     var body: some View {
@@ -33,7 +33,7 @@ struct HyperKeySettingsSection: View {
         Section {
             Picker(selection: hyperKeySelection) {
                 ForEach(HyperKeyPhysicalKey.allCases) { key in
-                    Text(key.title).tag(key)
+                    Text(key.title.localized).tag(key)
                 }
             } label: {
                 SettingsRowTitle(.generalHyperKey, "Hyper Key")
@@ -50,12 +50,12 @@ struct HyperKeySettingsSection: View {
                 Picker(selection: $settings.hyperKeyQuickPress) {
                     Text("Does Nothing").tag(HyperKeyQuickPress.none)
                     if let original = settings.hyperKey.quickPressOriginalTitle {
-                        Text(original).tag(HyperKeyQuickPress.originalKey)
+                        Text(original.localized).tag(HyperKeyQuickPress.originalKey)
                     }
                     Text("Trigger Escape").tag(HyperKeyQuickPress.escape)
                 } label: {
                     SettingsRowTitle(.generalHyperKey, "Quick Press")
-                    Text("When \(settings.hyperKey.title) is pressed alone.")
+                    Text("When \(settings.hyperKey.title.localized) is pressed alone.")
                 }
             }
 
@@ -101,7 +101,7 @@ struct HyperKeySettingsSection: View {
             SettingsRow(title: "Status", subtitle: detail, subtitleLineLimit: 2) {
                 HStack(spacing: Theme.Spacing.sm) {
                     ColorDot(color: tint)
-                    Text(title).foregroundStyle(.secondary)
+                    Text(title.localized).foregroundStyle(.secondary)
                     if status == .needsAccessibility {
                         Button("Grant Access…") { Permissions.openAccessibilitySettings() }
                     }
