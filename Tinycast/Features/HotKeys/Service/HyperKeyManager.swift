@@ -87,7 +87,7 @@ final class HyperKeyManager: HealthCheckable {
             return stop(.off)
         }
         if let blocker = HyperKeyConflictScanner.runningBlocker() {
-            if status != .blocked(appName: blocker) { onProblem?("Quit \(blocker) to use the Hyper Key") }
+            if status != .blocked(appName: blocker) { onProblem?("Quit %@ to use the Hyper Key".localized(blocker)) }
             return stop(.blocked(appName: blocker))
         }
         guard pauseReasons.isEmpty else { return stop(.paused) }

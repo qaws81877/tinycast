@@ -17809,6 +17809,545 @@
           }
         }
       }
+    },
+    "Diagnostics…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "진단…"
+          }
+        }
+      }
+    },
+    "Hide Diagnostics": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "진단 가리기"
+          }
+        }
+      }
+    },
+    "Hyper Key Diagnostics": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hyper Key 진단"
+          }
+        }
+      }
+    },
+    "Open Keyboard Settings…": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "키보드 설정 열기…"
+          }
+        }
+      }
+    },
+    "Restart Hyper Key": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hyper Key 다시 시작"
+          }
+        }
+      }
+    },
+    "Fills the first argument when a shortcut opens the quicklink.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "단축키로 퀵링크를 열 때 첫 번째 인수를 채웁니다."
+          }
+        }
+      }
+    },
+    "Pass selected text as argument": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "선택한 텍스트를 인수로 전달"
+          }
+        }
+      }
+    },
+    "Couldn’t get the selected text": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "선택한 텍스트를 가져올 수 없습니다"
+          }
+        }
+      }
+    },
+    "Allow Tinycast to use Accessibility in System Settings": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "시스템 설정에서 Tinycast의 손쉬운 사용을 허용하세요"
+          }
+        }
+      }
+    },
+    "Inserted %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 삽입함"
+          }
+        }
+      }
+    },
+    "Can't attach .%@ files — only images, PDFs and text.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": ".%@ 파일은 첨부할 수 없습니다. 이미지, PDF, 텍스트만 가능합니다."
+          }
+        }
+      }
+    },
+    "This model can't read PDFs. Switch model or paste the text.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 모델은 PDF를 읽을 수 없습니다. 모델을 바꾸거나 텍스트를 붙여넣으세요."
+          }
+        }
+      }
+    },
+    "Quit %@ to use the Hyper Key": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hyper Key를 쓰려면 %@을(를) 종료하세요"
+          }
+        }
+      }
+    },
+    "The Hyper Key can't work while Secure Input is on": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "보안 입력이 켜져 있는 동안에는 Hyper Key가 동작하지 않습니다"
+          }
+        }
+      }
+    },
+    "All keyboards": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모든 키보드"
+          }
+        }
+      }
+    },
+    "Keyboard %@-%@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "키보드 %@-%@"
+          }
+        }
+      }
+    },
+    "Active": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "활성"
+          }
+        }
+      }
+    },
+    "Active Key": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "활성 키"
+          }
+        }
+      }
+    },
+    "Event Tap": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이벤트 탭"
+          }
+        }
+      }
+    },
+    "Run Loop Source": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "런 루프 소스"
+          }
+        }
+      }
+    },
+    "Secure Input": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "보안 입력"
+          }
+        }
+      }
+    },
+    "Remapped Keyboards": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "리매핑된 키보드"
+          }
+        }
+      }
+    },
+    "Conflicting Apps": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "충돌하는 앱"
+          }
+        }
+      }
+    },
+    "Apps running now that also remap keys.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "지금 실행 중이면서 키를 리매핑하는 앱입니다."
+          }
+        }
+      }
+    },
+    "Karabiner Conflict": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Karabiner 충돌"
+          }
+        }
+      }
+    },
+    "Detected": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "감지됨"
+          }
+        }
+      }
+    },
+    "Caps Lock Mapping Conflicts": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Caps Lock 매핑 충돌"
+          }
+        }
+      }
+    },
+    "Modifier Keys in System Settings remaps Caps Lock, which blocks the Hyper Key.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "시스템 설정의 보조 키 설정이 Caps Lock을 리매핑해 Hyper Key를 막고 있습니다."
+          }
+        }
+      }
+    },
+    "No Karabiner keyboard found.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Karabiner 키보드를 찾지 못했습니다."
+          }
+        }
+      }
+    },
+    "Karabiner keyboards: %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Karabiner 키보드: %@"
+          }
+        }
+      }
+    },
+    "Yes": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "예"
+          }
+        }
+      }
+    },
+    "No": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "아니요"
+          }
+        }
+      }
+    },
+    "Tinycast's Hyper shortcuts use Right Control while Secure Input is on.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "보안 입력이 켜져 있는 동안 Tinycast의 Hyper 단축키는 오른쪽 Control을 사용합니다."
+          }
+        }
+      }
+    },
+    "Key presses can't reach the Hyper Key while Secure Input is on.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "보안 입력이 켜져 있는 동안에는 키 입력이 Hyper Key에 닿지 않습니다."
+          }
+        }
+      }
+    },
+    "Probably %@.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "아마 %@일 것입니다."
+          }
+        }
+      }
+    },
+    " or ": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": " 또는 "
+          }
+        }
+      }
+    },
+    "macOS names %@, which isn't always right.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS는 %@을(를) 지목하지만 항상 정확하지는 않습니다."
+          }
+        }
+      }
+    },
+    "Logging out and back in turns it off.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "로그아웃했다가 다시 로그인하면 꺼집니다."
+          }
+        }
+      }
+    },
+    "Closing that app turns it off.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "그 앱을 닫으면 꺼집니다."
+          }
+        }
+      }
+    },
+    "Remap one key to %@ held together.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "키 하나를 %@ 동시 입력으로 리매핑합니다."
+          }
+        }
+      }
+    },
+    "%@ sends %@, shown as ✦ in shortcuts.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ 키는 %@을(를) 보내며, 단축키에서 ✦로 표시됩니다."
+          }
+        }
+      }
+    },
+    "%@ runs its own Hyper Key. Quit it to use this one.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@이(가) 자체 Hyper Key를 실행 중입니다. 이것을 쓰려면 종료하세요."
+          }
+        }
+      }
+    },
+    "Secure Input Compatibility": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "보안 입력 호환성"
+          }
+        }
+      }
+    },
+    "Tinycast's Hyper shortcuts also work in password fields and secure terminals, where Right Control (⌃) with the same key triggers them. While on, Right Control (⌃) acts as the Hyper Key too.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tinycast의 Hyper 단축키가 암호 필드와 보안 터미널에서도 동작하며, 그곳에서는 오른쪽 Control(⌃)과 같은 키로 실행됩니다. 켜져 있는 동안 오른쪽 Control(⌃)도 Hyper Key로 동작합니다."
+          }
+        }
+      }
+    },
+    "Needs Accessibility": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "손쉬운 사용 필요"
+          }
+        }
+      }
+    },
+    "Blocked": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "차단됨"
+          }
+        }
+      }
+    },
+    "Paused": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "일시 정지됨"
+          }
+        }
+      }
+    },
+    "Handed back while the Mac sleeps, locks or switches user.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mac이 잠자기, 잠금, 사용자 전환 중일 때는 반환됩니다."
+          }
+        }
+      }
+    },
+    "macOS refused to remap the keyboard.": {
+      "extractionState": "manual",
+      "localizations": {
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS가 키보드 리매핑을 거부했습니다."
+          }
+        }
+      }
     }
   },
   "version": "1.0"

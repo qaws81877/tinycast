@@ -65,8 +65,8 @@ struct HyperKeyDiagnosticsSection: View {
     private var karabinerDetail: String {
         let keyboards = diagnostics.karabinerVirtualKeyboards
         return keyboards.isEmpty
-            ? "No Karabiner keyboard found."
-            : "Karabiner keyboards: \(keyboards.joined(separator: ", "))"
+            ? "No Karabiner keyboard found.".localized
+            : "Karabiner keyboards: %@".localized(keyboards.joined(separator: ", "))
     }
 
     private var remappedItems: [(String, DiagnosticTone)] {
@@ -96,20 +96,20 @@ struct HyperKeyDiagnosticsSection: View {
     private func describe(_ secureInput: HyperKeyDiagnostics.SecureInput) -> String {
         var sentences = [
             diagnostics.secureInputCompatibilityActive
-                ? "Tinycast's Hyper shortcuts use Right Control while Secure Input is on."
-                : "Key presses can't reach the Hyper Key while Secure Input is on."
+                ? "Tinycast's Hyper shortcuts use Right Control while Secure Input is on.".localized
+                : "Key presses can't reach the Hyper Key while Secure Input is on.".localized
         ]
         if !secureInput.likelyOwners.isEmpty {
-            sentences.append("Probably \(secureInput.likelyOwners.joined(separator: " or ")).")
+            sentences.append("Probably %@.".localized(secureInput.likelyOwners.joined(separator: " or ".localized)))
         }
         if let owner = secureInput.reportedOwner {
-            sentences.append("macOS names \(owner), which isn't always right.")
+            sentences.append("macOS names %@, which isn't always right.".localized(owner))
         }
         if !diagnostics.secureInputCompatibilityActive {
             sentences.append(
                 secureInput.ownerIsLoginWindow
-                    ? "Logging out and back in turns it off."
-                    : "Closing that app turns it off.")
+                    ? "Logging out and back in turns it off.".localized
+                    : "Closing that app turns it off.".localized)
         }
         return sentences.joined(separator: " ")
     }
@@ -133,7 +133,7 @@ struct HyperKeyDiagnosticsSection: View {
 
         var body: some View {
             HStack(spacing: Theme.Spacing.sm) {
-                Text(text).foregroundStyle(tone.color)
+                Text(text.localized).foregroundStyle(tone.color)
                 ColorDot(color: tone.color)
             }
         }

@@ -69,9 +69,9 @@ struct HyperKeySettingsSection: View {
                 Toggle(isOn: $settings.hyperKeySecureInputCompatibility) {
                     SettingsRowTitle(.generalHyperKey, "Secure Input Compatibility")
                     Text(
-                        "Tinycast's Hyper shortcuts also work in password fields and secure terminals, "
+                        ("Tinycast's Hyper shortcuts also work in password fields and secure terminals, "
                             + "where Right Control (⌃) with the same key triggers them. "
-                            + "While on, Right Control (⌃) acts as the Hyper Key too.")
+                            + "While on, Right Control (⌃) acts as the Hyper Key too.").localized)
                 }
             }
         } header: {
@@ -124,7 +124,7 @@ struct HyperKeySettingsSection: View {
 
         private var detail: String? {
             switch status {
-            case .blocked(let appName): return "\(appName) runs its own Hyper Key. Quit it to use this one."
+            case .blocked(let appName): return "%@ runs its own Hyper Key. Quit it to use this one.".localized(appName)
             case .remapUnavailable: return "macOS refused to remap the keyboard."
             case .paused: return "Handed back while the Mac sleeps, locks or switches user."
             case .off, .active, .needsAccessibility: return nil
